@@ -1,0 +1,22 @@
+{
+  "undefined": 430,
+  "C'S": 38,
+  "PP": 31,
+  "ZEC": 43,
+  "CHA": 36,
+  "PSOE + C'S": 6,
+  "PSOE": 17,
+  "ZEC + PSOE": 2,
+  "ZEC + CHA": 11,
+  "PP + PSOE": 3,
+  "PP + C'S": 4,
+  "PSOE + CHA": 5,
+  "ZEC + C'S + CHA": 2,
+  "C'S + CHA": 3,
+  "PP + ZEC + CHA": 4,
+  "ZEC + PSOE + C'S + CHA": 1,
+  "PSOE + C'S + CHA": 2,
+  "PP + ZEC": 1,
+  "ZEC + C'S": 2,
+  "PP + CHA": 1
+}
