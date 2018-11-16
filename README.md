@@ -35,4 +35,8 @@ Documentado todo el proceso en bash/commands.md
 
 ## Python
 
-Necesitamos pipenv para gestionar las dependencias de Python, por ahora solo request. Lanzamos el scraper con ```pipenv run python lurte.py``
+**WIP**
+
+Necesitamos pipenv para gestionar las dependencias de Python, por ahora solo request. Lanzamos el scraper con ```pipenv run python lurte.py```
+
+
