@@ -1,5 +1,7 @@
 import requests
 import os
+
+# Importando la variable de entorno con el apikey de la aemet
 apikey = os.environ['APIKEY_AEMET']
 
 url = "https://opendata.aemet.es/opendata/api/valores/climatologicos/inventarioestaciones/todasestaciones/"
