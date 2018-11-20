@@ -14,6 +14,10 @@ import csv
 
 url = 'https://www.zaragoza.es/sede/portal/organizacion/plenos/servicio/fehaciente/70554'
 
+dia = input("Introduce el dia del pleno: ")
+
+mes = input("Introduce el mes del pleno: ")
+
 response = requests.get(url)
 
 data = response.text
@@ -30,7 +34,7 @@ listado = mociones.findNext('ul')
 mocionesLink = listado.find_all('a')
 
 # Ahora vamos a guardar todo en un CSV, lo primero es crearlo
-fileCSV = csv.writer(open('pleno-del.csv', 'w'))
+fileCSV = csv.writer(open('pleno-del-' + dia + '-del-' + mes + '.csv', 'w'))
 # Ahora añadimos las columnas del CSV
 fileCSV.writerow(['Numero', 'Partido', 'Enlace', 'Texto'])
 
