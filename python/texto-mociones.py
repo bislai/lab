@@ -27,20 +27,24 @@ mociones = soup.find('h3', string='MOCIONES')
 listado = mociones.findNext('ul')
 
 # Buscamos todos los enlaces
-tags = listado.find_all('a')
+mocionesLink = listado.find_all('a')
 
 # Ahora vamos a guardar todo en un CSV, lo primero es crearlo
 fileCSV = csv.writer(open('pleno-del.csv', 'w'))
 # Ahora añadimos las columnas del CSV
-fileCSV.writerow(['Numero', 'Partido', 'Enlace'])
+fileCSV.writerow(['Numero', 'Partido', 'Enlace', 'Texto'])
 
-for tag in tags:
+for elem in mocionesLink:
     # Nos quedamos con el contenido del enlace
-    partido = tag.contents[0]
+    partido = elem.contents[0]
     # Ahora nos quedamos con el enlace
-    link = tag.get('href')
+    link = elem.get('href')
     # Y por último nos quedamos con el número de moción, que siempre esta por delante del enlace de la moción
-    numeroMocion = tag.previousSibling
+    numeroMocion = elem.previousSibling
+
+    # Nos quedamos con el texto de la moción que siempre esta a continuación del enlace, eliminamos las comas para que no de problemas con el CSV
+    textoMocion = elem.nextSibling.replace(',', ' ')
 
     # Ahora le pasamos todos los parametros al CSV que hemos creado anteriormente
-    fileCSV.writerow([numeroMocion, partido, link])
+    fileCSV.writerow([numeroMocion, partido, link, textoMocion])
+
