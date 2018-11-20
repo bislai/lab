@@ -33,22 +33,26 @@ listado = mociones.findNext('ul')
 # Buscamos todos los enlaces
 mocionesLink = listado.find_all('a')
 
-# Ahora vamos a guardar todo en un CSV, lo primero es crearlo
-fileCSV = csv.writer(open('pleno-del-' + dia + '-del-' + mes + '.csv', 'w'))
-# Ahora añadimos las columnas del CSV
-fileCSV.writerow(['Numero', 'Partido', 'Enlace', 'Texto'])
+# Ahora vamos a guardar todo en un CSV, lo primero es abrir el fichero.
+# La sentencia with se encargará de cerrar el fichero como es debido cuando termine con él, si no habría que llamar a f.close()
+with open('pleno-del-' + dia + '-del-' + mes + '.csv', 'w') as f:
+    # Lo segundo es crear el escritor de CSV
+    fileCSV = csv.writer(f)
+    # Ahora añadimos las columnas del CSV
+    fileCSV.writerow(['Numero', 'Partido', 'Enlace', 'Texto'])
 
-for elem in mocionesLink:
-    # Nos quedamos con el contenido del enlace
-    partido = elem.contents[0]
-    # Ahora nos quedamos con el enlace
-    link = elem.get('href')
-    # Y por último nos quedamos con el número de moción, que siempre esta por delante del enlace de la moción
-    numeroMocion = elem.previousSibling
+    for elem in mocionesLink:
+        # Nos quedamos con el contenido del enlace
+        partido = elem.contents[0]
+        # Ahora nos quedamos con el enlace
+        link = elem.get('href')
+        # Y por último nos quedamos con el número de moción, que siempre esta por delante del enlace de la moción
+        numeroMocion = elem.previousSibling
 
-    # Nos quedamos con el texto de la moción que siempre esta a continuación del enlace, eliminamos las comas para que no de problemas con el CSV
-    textoMocion = elem.nextSibling.replace(',', ' ')
+        # Nos quedamos con el texto de la moción que siempre esta a continuación del enlace, eliminamos las comas para que no de problemas con el CSV
+        # Aunque no es necesario porque no va a dar problemas con las comas, la librería se encarga de poner los caracteres de escape.
+        textoMocion = elem.nextSibling.replace(',', ' ')
 
-    # Ahora le pasamos todos los parametros al CSV que hemos creado anteriormente
-    fileCSV.writerow([numeroMocion, partido, link, textoMocion])
+        # Ahora le pasamos todos los parametros al CSV que hemos creado anteriormente
+        fileCSV.writerow([numeroMocion, partido, link, textoMocion])
 
