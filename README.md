@@ -1,6 +1,6 @@
 # Bislai scraping
 
-Aquí todas las movidas para obtener los datos del Ayuntamiento de Zaragoza, y a partir de ellos generar múltiples estadísticas para las gráficas de @Bislai.
+Aquí todas las movidas para obtener los datos del Ayuntamiento de Zaragoza, y a partir de ellos generar múltiples estadísticas para las gráficas de [Bislai](https://bislai.co).
 
 ## Python
 
@@ -11,7 +11,7 @@ Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo pr
 Lanzamos el script con ```python mociones.py``` en mi caso lo lanzo con pipenv ```pipenv run python mociones.py``` 
 
 <blockquote>
-Como el comando es muy largo y no estamos para perder tiempo es recomendable hacerse un alias ```prp=pipenv run python```
+Como el comando es muy largo y no estamos para perder tiempo es recomendable hacerse un alias prp=pipenv run python
 </blockquote>
 
 El scraper espera tres parametros
