@@ -3,6 +3,7 @@ Este script sirve para generar un CSV con:
     - El número de la moción
     - El partido que lo ha presentado
     - La url con la moción completa
+    - El texto de cada moción
 """
 
 from bs4 import BeautifulSoup

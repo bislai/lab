@@ -9,9 +9,7 @@ verify_ssl = true
 requests = "*"
 beautifulsoup4 = "*"
 html5lib = "*"
-nltk = "*"
 pylint = "*"
-
 
 [requires]
 python_version = "3.7"

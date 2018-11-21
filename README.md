@@ -2,41 +2,46 @@
 
 Aquí todas las movidas para obtener los datos del Ayuntamiento de Zaragoza, y a partir de ellos generar múltiples estadísticas para las gráficas de @Bislai.
 
+## Python
 
-## Node + Lodash
+### Plenos
 
-Comprobar que la matriz que contiene todas las mociones esta actualizada en ```mociones/mociones.json``` Lanzamos lodash contra la matriz. Para ello hay un script de NPM que primero actualiza los objetos de los partidos y una vez actualizado contabiliza los diferentes archivos correspondientes a cada partido.
+Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo primero hacemos un ```pipenv install``` para que funcione todo correctamente. 
 
-```
-npm run data:bislai
-```
+Lanzamos el script con ```python mociones.py``` en mi caso lo lanzo con pipenv ```pipenv run python mociones.py``` 
 
-Después de lanzar el script obtenemos para cada partido:
+<blockquote>
+Como el comando es muy largo y no estamos para perder tiempo es recomendable hacerse un alias ```prp=pipenv run python```
+</blockquote>
 
-- Votos a favor del resto de partidos
-- Votos en contra del resto de partidos
-- Abstenciones
-- Votos en su contra del resto de partidos
-- Votos a favor del resto de partidos
+El scraper espera tres parametros
+- El primero la url de la moción que queremos obtener.
+- El segundo el día que se celebro.
+- El tercero el mes que se celebro.
 
-Para las estadísticas generales obtenemos:
+Estos dos últimos parametros son para generar un nombre legible para el CSV.
 
-- ¿Quién vota a favor?
-- ¿Quién vota en contra?
-- ¿Quién se abstiene?
-- Cuantás mociones se han presentado
-- Resultado de las **votaciones**, no son mociones.
-- Votaciones por unanimidad
-- La soledad del pleno, aquellos partidos que votan solos ya se a favor, en contra o abstención.
+Una vez lanzado obtenemos en un CSV:
+ - El número de la moción
+ - El partido que lo ha presentado
+ - La url con la moción completa
+ - El texto de cada moción
+
+### Actas
+
+Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo primero hacemos un ```pipenv install``` para que funcione todo correctamente. 
+
+Lanzamos el script con ```python actas.py``` en mi caso lo lanzo con pipenv ```pipenv run python actas.py``` 
+
+Por ahora el script almacena en un CSV todos los enlaces a las actas que se han celebrado entre 2015 y 2019.
+
+### Votaciones
+
+En proceso...
+
+Por ahora lo que hay no es suficiente ya que para las votaciones cada día emplean un termino diferente.
 
 ## Bash
 
-Documentado todo el proceso en bash/commands.md
-
-## Python
-
-**WIP**
-
-Necesitamos pipenv para gestionar las dependencias de Python, por ahora solo request. Lanzamos el scraper con ```pipenv run python lurte.py```
-
+El scraping con bash ya ha pasado a la historia. Aún así esta documentado todo el proceso en bash/commands.md
 
