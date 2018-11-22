@@ -33,7 +33,23 @@ Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo pr
 
 Lanzamos el script con ```python actas.py``` en mi caso lo lanzo con pipenv ```pipenv run python actas.py``` 
 
-Por ahora el script almacena en un CSV todos los enlaces a las actas que se han celebrado entre 2015 y 2019.
+Con el script obtenemos todos los PDF de las actas de la última legislatura 2015-2018. Se puede modificar para obtener los de todos los años, hay que tener en cuenta que las actas solo están disponibles desde 2012.
+
+Para modificar los años hay que añadir los diferentes años a la lista de URL:
+
+```
+list_url = [
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias.htm',
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias_17.htm',
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias_16.htm',
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias_15.htm',
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias_14.htm',
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias_13.htm',
+    'http://www.zaragoza.es/ciudad/organizacion/plenos/activ_plenarias_12.htm']
+```
+
+
+Lanzando el script ```merge-actas.py``` generamos un único PDF de 11467 🤯 páginas con el nombre ```todas-las-actas-desde-2015-2019.pdf``` 
 
 ### Votaciones
 
