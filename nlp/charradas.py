@@ -4,6 +4,10 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 import os
+import re
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.probability import FreqDist
 
 def convert_pdf_to_txt(path, pages=None):
     if not pages:
@@ -25,6 +29,36 @@ def convert_pdf_to_txt(path, pages=None):
     return text
 
 
-textFile = convert_pdf_to_txt('acta-pleno-010618.pdf')
+data = convert_pdf_to_txt('acta-pleno-010618.pdf')
 
-print(textFile)
+paragraphs = data.split("\n\n")
+
+paragraphs[:] = (value for value in paragraphs if value != '\t')
+
+data = ' '.join(paragraphs)
+
+searchString = '([^\']*(?=hooligan)[^\']*)'
+
+match = re.findall(searchString, str(paragraphs))
+
+
+print(match)
+
+# print(match.groups())
+
+# tokens = word_tokenize(textFile)
+
+# stop_words = stopwords.words('spanish')
+
+# punctuations = ['(', ')', ';', ':', '[', ']', ',', '.']
+
+# keywords = [word for word in tokens if not word.isnumeric()]
+
+# keywords = [word.lower() for word in keywords]
+
+# keywords = [word for word in keywords if not word in stop_words and not word in punctuations]
+
+# fdist = FreqDist(keywords)
+
+# for word, frequency in fdist.most_common(100):
+#     print(u'{};{}'.format(word, frequency))
