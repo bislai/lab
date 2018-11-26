@@ -8,8 +8,8 @@ verify_ssl = true
 [packages]
 nltk = "*"
 pdfminer-six = "*"
-chardet = "*"
-textract = "*"
+slate = "*"
+pdftotext = "*"
 
 [requires]
 python_version = "3.7"

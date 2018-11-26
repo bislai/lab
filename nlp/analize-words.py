@@ -1,3 +1,8 @@
+'''
+WIP WIP WIP
+'''
+
+
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -37,12 +42,16 @@ paragraphs[:] = (value for value in paragraphs if value != '\t')
 
 data = ' '.join(paragraphs)
 
-searchString = '([^\']*(?=hooligan)[^\']*)'
+print(data)
+print(type(data))
+print(len(data))
 
-match = re.findall(searchString, str(paragraphs))
+# searchString = '([^\']*(?=hooligan)[^\']*)'
+
+# match = re.findall(searchString, str(paragraphs))
 
 
-print(match)
+# print(match)
 
 # print(match.groups())
 
