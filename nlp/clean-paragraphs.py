@@ -24,8 +24,9 @@ with open('acta-pleno-010618.pdf', 'rb') as f:
     # Ahora lo volvemos a convertir en string
     text_file = str(text_file)
 
+
     # Expresion regular para buscar una palabra
-    searchString = re.compile('([^\']*(?=Escuer)[^\']*)')
+    searchString = re.compile("[^']{0,}(?=\\bfavor\\b)[^']{0,}[^']{0,}(?=\\bcontra\\b)[^']{0,}")
 
     # Buscamos en la lista la palabra
     matching = searchString.findall(text_file)
@@ -37,5 +38,5 @@ with open('acta-pleno-010618.pdf', 'rb') as f:
     matching = matching.replace('\\n', ' ').replace('\\', '')
 
     # # Generamos el archivo solo con los parrafos donde se nombra a cada concejal
-    with open('hooligan.txt', 'w') as archivo:
+    with open('prueba.txt', 'w') as archivo:
         archivo.write(matching)
