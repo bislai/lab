@@ -19,26 +19,26 @@ with open('acta-pleno-010618.pdf', 'rb') as f:
     # Ahora convertimos ese string en una lista, la condición para partir el parrafo es que haya ocho o más espacios en blanco
     line_break = r'\s{8,}'
     text_file = re.split(line_break, text_file)
+    # Filtramos los elementos de la lista vacios
     text_file = list(filter(None, text_file))
-    another_list = text_file
     text_file = str(text_file)
     text_file = text_file.replace('\\n', ' ').replace('\\', '')
 
-    # Expresion regular para buscar una palabra
+    # Expresion regular para buscar palabras y discriminar por ellas
     escuer = re.findall('([^\']*(?=Escuer)[^\']*)', text_file)
     votacion = re.findall("[^']{0,}(?=\\bfavor\\b)[^']{0,}[^']{0,}(?=\\bcontra\\b)[^']{0,}", text_file)
     abstencion = re.findall("[^']{0,}(?=\\bfavor\\b)[^']{0,}[^']{0,}(?=\\babstenciones\\b)[^']{0,}", text_file)
 
+    '''
+    Recorremos la lista que contiene Escuer con un for. Si los elementos de la lista votacion no están en la lista de votación los almacenamos en final_list
+    '''
     final_list = [elem for elem in escuer if elem not in votacion]
-    print(len(final_list))
 
+    # Hacemos el mismo proceso con abstencion
     clean_list = [elem for elem in final_list if elem not in abstencion]
-    print(len(clean_list))
 
+    # Convertimos la lista en un string
     clean_list = str(clean_list)
-
-
-
 
     # Generamos el archivo solo con los parrafos donde se nombra a cada concejal
     with open('escuer.txt', 'w') as archivo:
