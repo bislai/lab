@@ -2,11 +2,9 @@
 
 Aquí todas las movidas para obtener los datos del Ayuntamiento de Zaragoza, y a partir de ellos generar múltiples estadísticas para las gráficas de [Bislai](https://bislai.co).
 
-## Python
+## Plenos
 
-### Plenos
-
-Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo primero hacemos un ```pipenv install``` para que funcione todo correctamente. 
+Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo primero que hacemos es un ```pipenv install``` para que funcione todo correctamente. 
 
 Lanzamos el script con ```python mociones.py``` en mi caso lo lanzo con pipenv ```pipenv run python mociones.py``` 
 
@@ -29,7 +27,7 @@ Una vez lanzado obtenemos en un CSV:
 
 ### Actas
 
-Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo primero hacemos un ```pipenv install``` para que funcione todo correctamente. 
+Si quieres tocar algo del scraper las dependecias se gestionan con pipenv. Lo primero que hacemos es un ```pipenv install``` para que funcione todo correctamente. 
 
 Lanzamos el script con ```python actas.py``` en mi caso lo lanzo con pipenv ```pipenv run python actas.py``` 
 
@@ -51,13 +49,6 @@ list_url = [
 
 Lanzando el script ```merge-actas.py``` generamos un único PDF de 11467 🤯 páginas con el nombre ```todas-las-actas-desde-2015-2019.pdf``` 
 
-### Votaciones
+## Votaciones
 
-En proceso...
-
-Por ahora lo que hay no es suficiente ya que para las votaciones cada día emplean un termino diferente.
-
-## Bash
-
-El scraping con bash ya ha pasado a la historia. Aún así esta documentado todo el proceso en bash/commands.md
-
+WIP!
