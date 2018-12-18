@@ -27,15 +27,19 @@ with open('acta-pleno-010618.pdf', 'rb') as f:
     # Expresion regular para buscar una palabra
     escuer = re.findall('([^\']*(?=Escuer)[^\']*)', text_file)
     votacion = re.findall("[^']{0,}(?=\\bfavor\\b)[^']{0,}[^']{0,}(?=\\bcontra\\b)[^']{0,}", text_file)
+    abstencion = re.findall("[^']{0,}(?=\\bfavor\\b)[^']{0,}[^']{0,}(?=\\babstenciones\\b)[^']{0,}", text_file)
 
     final_list = [elem for elem in escuer if elem not in votacion]
     print(len(final_list))
 
-    final_list = str(final_list)
+    clean_list = [elem for elem in final_list if elem not in abstencion]
+    print(len(clean_list))
+
+    clean_list = str(clean_list)
 
 
 
 
     # Generamos el archivo solo con los parrafos donde se nombra a cada concejal
     with open('escuer.txt', 'w') as archivo:
-        archivo.write(final_list)
+        archivo.write(clean_list)
