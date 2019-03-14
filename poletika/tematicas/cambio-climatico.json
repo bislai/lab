@@ -1,0 +1,29 @@
+[
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Irene Montero",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/Irene_Montero_/status/1105127811499597824",
+    "date": "11/3/2019",
+    "statement": "Vamos a hacer un #HorizonteVerde para conseguir una transición energética a las energías limpias consiguiendo, además, crear cientos de miles de empleos"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/sanchezcastejon/status/1103712364057321474",
+    "date": "7/3/2019",
+    "statement": "Aquellas zonas que se vean damnificadas por esa transición ecológica van a contar con recursos económicos para abrir las oportunidades que merecen"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/sanchezcastejon/status/1103351171656355840",
+    "date": "6/3/2019",
+    "statement": "Vamos a hacer aprobar una ley de cambio climático y un plan de energía y clima y vamos a hacer una transición justa"
+  }
+]

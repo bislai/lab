@@ -1,0 +1,47 @@
+[
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://mobile.twitter.com/pablocasado_?p=s",
+    "date": "12/3/2019",
+    "statement": "Suprimiremos los impuestos de donaciones, sucesiones, patrimonio y actos jurídicos documentados."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Fiscalidad",
+    "proposal": "Justicia fiscal para grandes empresas",
+    "source": "https://mobile.twitter.com/pablocasado_?p=s",
+    "date": "12/3/2019",
+    "statement": "Nuestra revolución fiscal: IRPF por debajo de 40%, Sociedades por debajo del 20%."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.cope.es/programas/herrera-en-cope/herrera-en-cope-hora-completa/audios/herrera-cope-07-03-2019-20190307_686899",
+    "date": "7/3/2019",
+    "statement": "Nosotros proponemos una revolución fiscal para reactivar la economía y competir con los países que van por delante, bajando el IRPF por debajo del 40%, sociedades por debajo del 20%  y suprimiendo el impuesto de sucesiones, el de donaciones, el de patrimonio y el de actos jurídicos documentados"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Fiscalidad",
+    "proposal": "Justicia fiscal para grandes empresas",
+    "source": "https://twitter.com/sanchezcastejon/status/1103712364057321474",
+    "date": "7/3/2019",
+    "statement": "Elevar el impuesto de sociedades a las grandes corporaciones al 15% […]. No puede haber justicia social si no hay justicia fiscal"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://twitter.com/Albert_Rivera/status/1103020399720366080",
+    "date": "5/3/2019",
+    "statement": "Quiero vivir en un país donde las personas que se han esforzado durante toda su vida no tengan que preocuparse de dónde mueren por culpa del Impuesto de Sucesiones. Si llego al Gobierno, lo eliminaré en toda España. Ya está bien de castigar a las familias"
+  }
+]
