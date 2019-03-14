@@ -1,8 +1,8 @@
 #!/usr/local/bin/bash
 
 : '
-Dependencias: jq
-Para consumir los datos de la API de Poletika.
+Dependencias: jq - csvkit - sed(linux)
+Script para consumir los datos de la API de Poletika.
 La idea es generar un JSON de cada partido y tematica.
 '
 # Array con la lista de partidos y tematicas
