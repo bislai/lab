@@ -44,7 +44,7 @@ for ((i = 0; i < ${#partidos[@]}; i++)); do
     for ((x = 0; x < ${#tematicas[@]}; x++)); do
         # Buscamos por propuesta y contamos el número de veces que han presentado una propuesta de ese tema
         # Lo guardamos en un temporal
-        csvgrep -c tema -r "${tematicas[$x]}$" "$pathPartidos""${partidosre[$i]}"/"${partidosre[$i]}".csv | csvstat -c tema --count > "$pathPartidos""${partidosre[$i]}"/temp.csv
+        csvgrep -c tema -r "${tematicas[$x]}" "$pathPartidos""${partidosre[$i]}"/"${partidosre[$i]}".csv | csvstat -c tema --count > "$pathPartidos""${partidosre[$i]}"/temp.csv
 
         # Ahora eliminamos el Row count que genera CSVKIT y los sustituimos por el título de la propuesta
         # Esto lo guardamos en el CSV que almacenara el total de todas las propuestas
