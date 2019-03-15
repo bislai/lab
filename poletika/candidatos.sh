@@ -5,6 +5,7 @@ Dependencias: jq - csvkit - sed(linux)
 Script para consumir los datos de la API de Poletika.
 La idea es generar un JSON de cada partido y tematica.
 '
+
 # Array con la lista de partidos y tematicas
 partidos=('Unidas Podemos' 'Partido Socialista' 'Ciudadanos' 'Partido Popular' 'Vox')
 tematicas=('Calidad democrática' 'Cambio climático' 'Conflictos y migración' 'Desarrollo' 'Educación' 'Empleo' 'Fiscalidad' 'Género' 'Infancia' 'Protección social' 'Sanidad')
