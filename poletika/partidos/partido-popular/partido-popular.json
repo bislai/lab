@@ -2,6 +2,24 @@
   {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "http://www.pp.es/",
+    "date": "13/3/2019",
+    "statement": "...el sectarismo ideológico de ir contra los motores diesel (...) luego esto se extendía a todos los motores de combustión (...) y la última ocurrencia es que tampoco los híbridos valían..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "http://www.pp.es/",
+    "date": "13/3/2019",
+    "statement": "... me estoy refiriendo al nuevo plan de descarbonización y desnuclearización (...) pone en riesgo a cientos de familias en Aragón que dependen de las plantas que están generando energía..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
     "topic": "Fiscalidad",
     "proposal": "Progresividad sistema tributario",
     "source": "https://mobile.twitter.com/pablocasado_?p=s",
@@ -24,7 +42,7 @@
     "proposal": "Progresividad sistema tributario",
     "source": "http://www.pp.es/",
     "date": "12/3/2019",
-    "statement": "… revolución fiscal, por tanto, en cinco aspectos fundamentales: primero, bajada del IRPF por debajo del 40%; (...) tercero, supresión inmediata del impuesto de sucesiones; cuarto, supresión del impuesto de donaciones; quinto, supresión del impuesto de patrimonio; y sexto, de regalo, supresión del impuesto de actos jurídicos documentados…"
+    "statement": "… revolución fiscal en cinco aspectos fundamentales: primero, bajada del IRPF por debajo del 40%; (...) tercero, supresión inmediata del impuesto de sucesiones; cuarto, supresión del impuesto de donaciones; quinto, supresión del impuesto de patrimonio; y sexto, de regalo, supresión del impuesto de actos jurídicos documentados…"
   },
   {
     "party": "Partido Popular",
@@ -33,7 +51,7 @@
     "proposal": "Justicia fiscal para grandes empresas",
     "source": "http://www.pp.es/",
     "date": "12/3/2019",
-    "statement": "… revolución fiscal, por tanto, en cinco aspectos fundamentales: (...); segundo, bajada del impuesto de sociedades por debajo del 20% …"
+    "statement": "… revolución fiscal, en cinco aspectos fundamentales: (...); segundo, bajada del impuesto de sociedades por debajo del 20% …"
   },
   {
     "party": "Partido Popular",

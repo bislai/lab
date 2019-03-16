@@ -2,6 +2,24 @@
   {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
+    "topic": "Sanidad",
+    "proposal": "Acceso universal a la atención sanitaria",
+    "source": "https://www.youtube.com/watch?v=TVHfV3X0ftU",
+    "date": "15/3/2019",
+    "statement": "Un país donde no tengas que pedir ni permisos ni burocracia para pedir una atención sanitaria en cualquier rincón de España"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Género",
+    "proposal": "Estructura y políticas de igualdad",
+    "source": "https://twitter.com/Albert_Rivera/status/1106152323263488001",
+    "date": "14/3/2019",
+    "statement": "Impulsaré desde el Gobierno una Ley de Igualdad de Trato y No Discriminación. Hay que garantizar que no se discrimina a nadie en ningún lugar de España ni por su condición, ni por su etnia, ni por su origen..."
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
     "topic": "Género",
     "proposal": "Estructura y políticas de igualdad",
     "source": "https://www.facebook.com/Cs.Ciudadanos/videos/400852100706966/",
@@ -69,7 +87,7 @@
     "proposal": "Salarios y Precariedad",
     "source": "https://twitter.com/CiudadanosCs/status/1103236008911491072",
     "date": "6/3/2019",
-    "statement": "Me comprometo a llevar adelante un plan nacional contra la despoblación, tiene que tener a las CCAA sobre la mesa, a sindicatos y patronales sobre la mesa, a agentes sociales y entidades de trabajadores autonomos [...] para luchar contra las dificultades para trabajar, la gente no se marcha de sus pueblos porque les apetezca sino que se marchan porque no tienen trabajo"
+    "statement": ""
   },
   {
     "party": "Ciudadanos",
@@ -93,7 +111,7 @@
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Protección social",
-    "proposal": "Progresividad sistema tributario",
+    "proposal": "Sistema de ingresos mínimos",
     "source": "https://twitter.com/Albert_Rivera/status/1103264389715640320",
     "date": "6/3/2019",
     "statement": "Si los españoles me dan su confianza, los autónomos no pagarán cuota durante dos años tras tener un hijo. Hay que eliminar trabas a los autónomos, fomentar la natalidad y garantizar el futuro de las pensiones. Solo lo conseguiremos con medidas eficaces y valientes"

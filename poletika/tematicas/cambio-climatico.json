@@ -1,6 +1,33 @@
 [
   {
     "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/Pablo_Iglesias_?lang=es",
+    "date": "14/3/2019",
+    "statement": "El Plan #HorizonteVerde de Podemos es un compromiso para abordar una situación dramática que no puede esperar. Para 2030: 50% menos de energías fósiles. Para 2040: 100% de energías limpias. Reducción de la producción energética basada en combustibles fósiles a la mitad en una década y alcanzar el 100% de la producción energética de fuentes renovables en 2040."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "http://www.pp.es/",
+    "date": "13/3/2019",
+    "statement": "...el sectarismo ideológico de ir contra los motores diesel (...) luego esto se extendía a todos los motores de combustión (...) y la última ocurrencia es que tampoco los híbridos valían..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "http://www.pp.es/",
+    "date": "13/3/2019",
+    "statement": "... me estoy refiriendo al nuevo plan de descarbonización y desnuclearización (...) pone en riesgo a cientos de familias en Aragón que dependen de las plantas que están generando energía..."
+  },
+  {
+    "party": "Unidas Podemos",
     "candidate": "Irene Montero",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
