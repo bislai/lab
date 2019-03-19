@@ -1,5 +1,23 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://twitter.com/PSOE",
+    "date": "17/3/2019",
+    "statement": "...La disolución de las Cortes es un punto y aparte para retomar tareas pendientes: (...) una nueva ley educativa..."
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://twitter.com/CiudadanosCs/status/1106875636990144512",
+    "date": "16/3/2019",
+    "statement": "Vamos a hablar de idiomas, de innovación, de cómo mejorar los contenidos, la forma de aprender en las escuelas [...] de eso quiero yo hablar y eso hay que hacerlo con la sociedad civil [...] les vamos a escuchar para luego tomar decisiones."
+  },
+  {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Educación",
@@ -24,7 +42,7 @@
     "proposal": "Pacto de Estado por la Educación",
     "source": "https://twitter.com/sanchezcastejon/status/1103351171656355840",
     "date": "6/3/2019",
-    "statement": "Vamos a hacer un Pacto de Estado por la Educación que implique que la financiación de la educación debe tener como mínimo un 5% del PIB destinado a la educación pública, y vamos a acabar con la ley del 11 que lo que hizo fue romper el consenso educativo con la comunidad educativa"
+    "statement": "Vamos a hacer un Pacto de Estado por la Educación que implique que la financiación de la educación debe tener como mínimo un 5% del PIB destinado a la educación pública, y vamos a acabar con la LOMCE que lo que hizo fue romper el consenso educativo con la comunidad educativa"
   },
   {
     "party": "Partido Socialista",
@@ -43,5 +61,14 @@
     "source": "https://twitter.com/Irene_Montero_/status/1102999112058839040",
     "date": "5/3/2019",
     "statement": "Creo que educar en igualdad es una de las cosas más importantes que nosotros tenemos que hacer en nuestra sociedad [...]. Tenemos que tomar el guante y [...] que la educación pública en nuestro país cuente con una asignatura de feminismo. [...] y que los contenidos feministas de igualdad estén presentes en todas las asignaturas [...] Además creo que puede ser muy útil que haya una asignatura específica que hable de igualdad, de la igualdad afectivo sexual reproductiva, de todas aquellas cuestiones que nos permiten crecer en igualdad"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://www.youtube.com/watch?v=j46zZuK9JzU",
+    "date": "18/2/2019",
+    "statement": "La principal tarea que tenemos como sociedad es poner en pie una gran transformación de nuestros sistema educativo [...] La próxima legislatura, si tiene que definirse por algo, al menos ese es mi objetivo, es por una legislatura donde trasnformemos y modernicemos nuestro sistema educativo. Donde creamos en una educación pública"
   }
 ]

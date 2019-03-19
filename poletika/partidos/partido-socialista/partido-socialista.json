@@ -2,6 +2,24 @@
   {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
+    "topic": "Calidad democrática",
+    "proposal": "Libre expresión de la ciudadanía",
+    "source": "https://twitter.com/PSOE",
+    "date": "17/3/2019",
+    "statement": "... La disolución de las Cortes es un punto y aparte para retomar tareas pendientes: cambiar la #LeyMordaza, ..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://twitter.com/PSOE",
+    "date": "17/3/2019",
+    "statement": "...La disolución de las Cortes es un punto y aparte para retomar tareas pendientes: (...) una nueva ley educativa..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
     "topic": "Género",
     "proposal": "Organización social de los cuidados",
     "source": "https://twitter.com/sanchezcastejon",
@@ -42,7 +60,7 @@
     "proposal": "Pacto de Estado por la Educación",
     "source": "https://twitter.com/sanchezcastejon/status/1103351171656355840",
     "date": "6/3/2019",
-    "statement": "Vamos a hacer un Pacto de Estado por la Educación que implique que la financiación de la educación debe tener como mínimo un 5% del PIB destinado a la educación pública, y vamos a acabar con la ley del 11 que lo que hizo fue romper el consenso educativo con la comunidad educativa"
+    "statement": "Vamos a hacer un Pacto de Estado por la Educación que implique que la financiación de la educación debe tener como mínimo un 5% del PIB destinado a la educación pública, y vamos a acabar con la LOMCE que lo que hizo fue romper el consenso educativo con la comunidad educativa"
   },
   {
     "party": "Partido Socialista",
@@ -61,5 +79,14 @@
     "source": "https://twitter.com/sanchezcastejon/status/1103351171656355840",
     "date": "6/3/2019",
     "statement": "Vamos a hacer aprobar una ley de cambio climático y un plan de energía y clima y vamos a hacer una transición justa"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://www.youtube.com/watch?v=j46zZuK9JzU",
+    "date": "18/2/2019",
+    "statement": "La principal tarea que tenemos como sociedad es poner en pie una gran transformación de nuestros sistema educativo [...] La próxima legislatura, si tiene que definirse por algo, al menos ese es mi objetivo, es por una legislatura donde trasnformemos y modernicemos nuestro sistema educativo. Donde creamos en una educación pública"
   }
 ]

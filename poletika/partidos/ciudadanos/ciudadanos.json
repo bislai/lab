@@ -2,6 +2,15 @@
   {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://twitter.com/CiudadanosCs/status/1106875636990144512",
+    "date": "16/3/2019",
+    "statement": "Vamos a hablar de idiomas, de innovación, de cómo mejorar los contenidos, la forma de aprender en las escuelas [...] de eso quiero yo hablar y eso hay que hacerlo con la sociedad civil [...] les vamos a escuchar para luego tomar decisiones."
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
     "topic": "Sanidad",
     "proposal": "Acceso universal a la atención sanitaria",
     "source": "https://www.youtube.com/watch?v=TVHfV3X0ftU",
@@ -51,7 +60,7 @@
     "proposal": "Contribución internacional de España contra desigualdad y pobreza",
     "source": "https://twitter.com/CiudadanosCs/status/1104695854009528320",
     "date": "10/3/2019",
-    "statement": "Yo propongo que con un gobiernos de Ciudadanos lideremos la batalla de la libertad, la batalla de los Derechos Humanos, la batalla de la prosperidad en los países iberoamericanos"
+    "statement": "Yo propongo que con un Gobierno de Ciudadanos lideremos la batalla de la libertad, la batalla de los Derechos Humanos, la batalla de la prosperidad en los países iberoamericanos"
   },
   {
     "party": "Ciudadanos",
@@ -78,7 +87,7 @@
     "proposal": "Salarios y Precariedad",
     "source": "https://twitter.com/CiudadanosCs/status/1103236008911491072",
     "date": "6/3/2019",
-    "statement": "Yo me comprometo a recuperar esa ley desde el Gobierno, no puede haber ni un solo lobby que frene el pago a tiempo a los autónomos, no puede haber ni un solo Gobierno [...] que mire hacia otro lado ante la morosidad que hace morir a muchas empresas pequeñas y a muchos autónomos en su labor diaria. Es el compromiso de la lucha contra la morosidad para que las empresas no mueran"
+    "statement": "Yo me comprometo a recuperar esa ley [Ley de Medidas Urgentes para los Autónomos] desde el Gobierno. No puede haber ni un solo lobby que frene el pago a tiempo a los autónomos, no puede haber ni un solo Gobierno [...] que mire hacia otro lado ante la morosidad que hace morir a muchas empresas pequeñas y a muchos autónomos en su labor diaria. Es el compromiso de la lucha contra la morosidad para que las empresas no mueran"
   },
   {
     "party": "Ciudadanos",
@@ -87,13 +96,13 @@
     "proposal": "Salarios y Precariedad",
     "source": "https://twitter.com/CiudadanosCs/status/1103236008911491072",
     "date": "6/3/2019",
-    "statement": ""
+    "statement": "Me comprometo a llevar adelante un plan nacional contra la despoblación. Tiene que tener a las CCAA sobre la mesa, a sindicatos y patronales sobre la mesa, a agentes sociales y entidades de trabajadores autonomos [...] para luchar contra las dificultades para trabajar. La gente no se marcha de sus pueblos porque les apetezca sino que se marchan porque no tienen trabajo"
   },
   {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Empleo",
-    "proposal": "1 Salarios y Precariedad",
+    "proposal": "Salarios y Precariedad",
     "source": "https://twitter.com/CiudadanosCs/status/1103236008911491072",
     "date": "6/3/2019",
     "statement": "Tarifa super reducida para mujeres autónomas del mundo rural, [...] de 30€ para mujeres del ambito rural [...] durante los primeros 24 meses"
