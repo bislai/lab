@@ -1,6 +1,15 @@
 [
   {
     "party": "Unidas Podemos",
+    "candidate": "Irene Montero",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/Irene_Montero_/status/1107654398119952385",
+    "date": "18/3/2019",
+    "statement": "Estas son las medidas para recuperar el acceso al agua como un derecho humano:\nProhibir la mercantilización de derechos.\nCentrales hidroeléctricas públicas.\nRecuperar el agua pública en una legislatura."
+  },
+  {
+    "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
@@ -13,7 +22,7 @@
     "candidate": "Pablo Casado",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
-    "source": "http://www.pp.es/",
+    "source": "https://youtu.be/CcdGEvwwb4U?t=305",
     "date": "13/3/2019",
     "statement": "...el sectarismo ideológico de ir contra los motores diesel (...) luego esto se extendía a todos los motores de combustión (...) y la última ocurrencia es que tampoco los híbridos valían..."
   },
@@ -22,7 +31,7 @@
     "candidate": "Pablo Casado",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
-    "source": "http://www.pp.es/",
+    "source": "https://youtu.be/CcdGEvwwb4U?t=513",
     "date": "13/3/2019",
     "statement": "... me estoy refiriendo al nuevo plan de descarbonización y desnuclearización (...) pone en riesgo a cientos de familias en Aragón que dependen de las plantas que están generando energía..."
   },
@@ -40,7 +49,7 @@
     "candidate": "Pedro Sánchez",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
-    "source": "https://twitter.com/sanchezcastejon/status/1103712364057321474",
+    "source": "https://www.youtube.com/watch?v=CAnZy0HmLmk&feature=youtu.be",
     "date": "7/3/2019",
     "statement": "Aquellas zonas que se vean damnificadas por esa transición ecológica van a contar con recursos económicos para abrir las oportunidades que merecen"
   },
@@ -49,7 +58,7 @@
     "candidate": "Pedro Sánchez",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
-    "source": "https://twitter.com/sanchezcastejon/status/1103351171656355840",
+    "source": "https://www.youtube.com/watch?v=DYTGK8Jo_wc",
     "date": "6/3/2019",
     "statement": "Vamos a hacer aprobar una ley de cambio climático y un plan de energía y clima y vamos a hacer una transición justa"
   }
