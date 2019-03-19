@@ -22,18 +22,18 @@ fecha=$(date '+%Y-%m-%d')
 if [ "$your" -gt "$our" ] ; then
     echo "Poletika ha actualizado candi-DATOS. Vamos a traernos los cambios."
     # Eliminamos los antiguos datasets
-    rm -rf partidos tematicas
+    rm -rf partidos tematicas &&
 
     # Lanzamos el script para generar los datasets
-    bash candidatos.sh
+    bash candidatos.sh &&
 
-    rm poletika.json
+    rm poletika.json &&
     # Actualizamos nuestro JSON para comparar en la siguiente actualización
-    curl https://data.what-politicians-say.poletika.org/json/ --output poletika.json | jq '.'
-    git add poletika.json
-    git commit -m "update poletika API | date: '$fecha'"
-    git push origin master
-    echo "Actualizados los datos de Poletika. Vamos a mover los datasets a su ubicación."
+    curl https://data.what-politicians-say.poletika.org/json/ --output poletika.json | jq '.' &&
+    git add poletika.json &&
+    git commit -m "update poletika API | date: '$fecha'" &&
+    git push origin master &&
+    echo "✅ \e[1m\e[32mActualizados los datos de Poletika. \e[0mVamos a mover los datasets a su ubicación." &&
     bash mv-datasets.sh
 
 else
