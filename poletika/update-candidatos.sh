@@ -20,7 +20,7 @@ fecha=$(date '+%Y-%m-%d')
 
 
 if [ "$your" -gt "$our" ] ; then
-    printf "🎉 Poletika ha actualizado candi-DATOS. Vamos a traernos los cambios."
+    printf "🎉 \e[1m\e[32mPoletika ha actualizado candi-DATOS.\n\n\e[0m\e[92mVamos a traernos los cambios.\n"
     # Eliminamos los antiguos datasets
     rm -rf partidos tematicas &&
 
@@ -33,7 +33,7 @@ if [ "$your" -gt "$our" ] ; then
     git add poletika.json partidos tematicas &&
     git commit -m "update poletika API and datasets | date: '$fecha'" &&
     git push origin master &&
-    printf "\e[1m\e[32mActualizados los datos de Poletika. \e[0mVamos a mover los datasets a su ubicación." &&
+    printf "✅ \e[1m\e[32mActualizados los datos de Poletika.\n\n🚀 \e[0mVamos a mover los datasets a su ubicación." &&
     bash mv-datasets.sh
 else
     echo "No hay ninguna actualización disponible."
