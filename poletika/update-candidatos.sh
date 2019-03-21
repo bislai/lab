@@ -30,11 +30,20 @@ if [ "$your" -gt "$our" ] ; then
     rm poletika.json &&
     # Actualizamos nuestro JSON para comparar en la siguiente actualización
     curl https://data.what-politicians-say.poletika.org/json/ --output poletika.json | jq '.' &&
+
+    # Vamos a dejar todo subido a git para la próxima actualización
     git add poletika.json partidos tematicas &&
     git commit -m "update poletika API and datasets | date: '$fecha'" &&
     git push origin master &&
     printf "✅ \e[1m\e[32mActualizados los datos de Poletika.\n\n🚀 \e[0mVamos a mover los datasets a su ubicación." &&
-    bash mv-datasets.sh
+
+    # Ejecutamos otro script para mover los nuevos datasets al repositorio que hace las gráficas
+    bash mv-datasets.sh &&
+    cd ~/github/pqnvl/ &&
+    git add csv &&
+    git commit -m "update datasets | date: '$fecha'" &&
+    git push origin master &&
+    now || exit
 else
     echo "No hay ninguna actualización disponible."
 fi
