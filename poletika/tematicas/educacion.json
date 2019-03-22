@@ -1,5 +1,14 @@
 [
   {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://www.telecinco.es/informativos/nacional/albert-rivera-pedro-piqueras-entrevista-integra-informativos-telecinco_2_2725830229.html",
+    "date": "21/3/2019",
+    "statement": "El Pacto Educativo es otra de las propuestas que yo quiero hacer, la educación es el principal arma de un país y creo que tiene que ser un Pacto Nacional."
+  },
+  {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Educación",
@@ -69,6 +78,6 @@
     "proposal": "Pacto de Estado por la Educación",
     "source": "https://www.youtube.com/watch?v=j46zZuK9JzU",
     "date": "18/2/2019",
-    "statement": "La principal tarea que tenemos como sociedad es poner en pie una gran transformación de nuestros sistema educativo [...] La próxima legislatura, si tiene que definirse por algo, al menos ese es mi objetivo, es por una legislatura donde trasnformemos y modernicemos nuestro sistema educativo. Donde creamos en una educación pública"
+    "statement": "La principal tarea que tenemos como sociedad es poner en pie una gran transformación de nuestro sistema educativo [...] La próxima legislatura, si tiene que definirse por algo [...] es por una legislatura donde trasnformemos y modernicemos nuestro sistema educativo. Donde creamos en una educación pública"
   }
 ]
