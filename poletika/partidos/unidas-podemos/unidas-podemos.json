@@ -10,6 +10,60 @@
   },
   {
     "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://youtu.be/RyJAcAOPyZ8?t=7050",
+    "date": "23/3/2019",
+    "statement": "No nos conformamos con el salario mínimo a 900 euros. No vinimos para eso"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://youtu.be/RyJAcAOPyZ8?t=7503",
+    "date": "23/3/2019",
+    "statement": "Si para proteger el medio ambiente y para bajar la tarifa de la luz, que hace que miles de compatriotas no puedan tener luz y calefacción en su casa, hay que hacer una Empresa Pública de Energía o hay que nacionalizar una empresa de energía, cumpliremos la Constitución Española [art. 128]"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
+    "date": "23/3/2019",
+    "statement": "En este país, la mayor parte de los impuestos los pagan las PYME, los autónomos y los trabajadores. Según datos europeos estamos a 7 puntos porcentuales de distancia de la media europea en justicia fiscal, en especial sobre las grandes fortunas. Yo creo que proponer que la gente que gana más y que tiene patrimonios más altos se esfuerce un poquito más, es sensato"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Justicia fiscal para grandes empresas",
+    "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
+    "date": "23/3/2019",
+    "statement": "Nosotros proponemos más medidas [...] nosotros decimos que hay que asegurar que los bancos paguen el impuesto de sociedades"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
+    "date": "23/3/2019",
+    "statement": "Nosotros decimos también que tiene que haber una Tasa a las Transacciones Financieras"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
+    "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
+    "date": "23/3/2019",
+    "statement": "Lo que termina ocurriendo es que los niños se quedan con la madre. Y eso es una vergüenza. Nosotros hemos demostrado algo que están señalando las mujeres y que va a ser el futuro de este país: que los permisos de paternidad y maternidad tienen que ser iguales. Y hasta que no sean intransferibles, lo que seguirá ocurriendo por desgracia en este país es que la carga de los cuidados las van a asumir exclusivamente las mujeres"
+  },
+  {
+    "party": "Unidas Podemos",
     "candidate": "Irene Montero",
     "topic": "Desarrollo",
     "proposal": "Contribución internacional de España contra desigualdad y pobreza",
