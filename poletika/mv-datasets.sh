@@ -22,3 +22,5 @@ for ((i = 0; i < ${#partidosre[@]}; i++)); do
     mv "$pathPartidos""${partidosre[$i]}"/"${partidosre[$i]}".json "$github""${partidosre[$i]}"/"${partidosre[$i]}".json
 
 done
+
+mv "$pathPartidos"/poletika.json "$github"/poletika.json
