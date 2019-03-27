@@ -11,7 +11,7 @@ partidos=('Unidas Podemos' 'Partido Socialista' 'Ciudadanos' 'Partido Popular' '
 tematicas=('Calidad democrática' 'Cambio climático' 'Conflictos y migración' 'Desarrollo' 'Educación' 'Empleo' 'Fiscalidad' 'Género' 'Infancia' 'Protección social' 'Sanidad')
 
 # Otro array con los nombres de partidos y tematicas normalizados sin acentos, espacios ni mayúsuculas
-partidosre=('unidas-podemos' 'partido-socialista' 'ciudadanos' 'partido-popular')
+partidosre=('unidas-podemos' 'partido-socialista' 'ciudadanos' 'partido-popular' 'vox')
 tematicasre=('calidad-democratica' 'cambio-climatico' 'conflictos-y-migracion' 'desarrollo' 'educacion' 'empleo' 'fiscalidad' 'genero' 'infancia' 'proteccion-social' 'sanidad')
 
 # Creamos un directorio donde almacenar los JSON de cada partido
