@@ -1,12 +1,21 @@
 [
   {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/antena3/programas/el-hormiguero/temporada-8/26-03-19_5c94c5057ed1a85e01c6dbaa/",
+    "date": "26/3/2019",
+    "statement": "Los que ganan mucho tienen que pagar un poquito más, tienen que esforzarse un poquito más. Eso si nosotros estamos en el gobierno se va a hacer."
+  },
+  {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Fiscalidad",
     "proposal": "Progresividad sistema tributario",
     "source": "https://www.pscp.tv/w/1mnGeOAkqenxX?t=3209",
     "date": "24/3/2019",
-    "statement": "Una medida que va a afectar a los bolsillos pero sobre todo a las ganas de trabajar y de quedarse, y de emprender, vamos a rebajar un 60% del tramo de IRPF a las personas que vivan en pueblos con menos de 5000 habitantes"
+    "statement": "Una medida que va a afectar a los bolsillos pero sobre todo a las ganas de trabajar y de quedarse y de emprender: vamos a rebajar un 60% del tramo de IRPF a las personas que vivan en pueblos con menos de 5000 habitantes"
   },
   {
     "party": "Partido Popular",
@@ -15,7 +24,7 @@
     "proposal": "Progresividad sistema tributario",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "Bajar impuestos, suprimiremos inmediatamente el impuesto de sucesiones, el de donaciones, el de patrimonio, el de actos jurídicos documentados bajaremos el IRPF por debajo del 40% y el impuesto de sociedades por debajo del 20% [...] esto también implica supresión de deducciones y ampliación de las bases imponibles"
+    "statement": "Bajar impuestos, suprimiremos inmediatamente el Impuesto de Sucesiones, el de Donaciones, el de Patrimonio, el de Actos Jurídicos Documentados; bajaremos el IRPF por debajo del 40% y el Impuesto de Sociedades por debajo del 20% [...] esto también implica supresión de deducciones y ampliación de las bases imponibles"
   },
   {
     "party": "Partido Popular",
@@ -33,7 +42,7 @@
     "proposal": "Progresividad sistema tributario",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "Contra la elusión y evasión fiscal, impuestos claros, impuestos bajos y para competir"
+    "statement": "Contra la elusión y evasión fiscal: impuestos claros, impuestos bajos y para competir"
   },
   {
     "party": "Vox",

@@ -1,12 +1,30 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://youtu.be/pdqvBIZTlsM",
+    "date": "26/3/2019",
+    "statement": "...vamos lógicamente a acabar con la LOMCE y vamos a poner en pié una nueva ley educativa que acabe con esa ruptura y quiebra del pacto educativo que supuso la LOMCE..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://youtu.be/pdqvBIZTlsM",
+    "date": "26/3/2019",
+    "statement": "... la España del conocimiento significa también apostar por la formación profesional..."
+  },
+  {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
     "topic": "Educación",
     "proposal": "Educación inclusiva y de calidad",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "La reforma educativa está más focalizada en secundaria y primaria [...]la FP dual, el bilingüismo, las evaluaciones, la libertad elección de centro, y también las materias STEM [...]  A los jóvenes se les debería orientar por dónde va el mercado laboral y eso es lo yo que propongo que se haga en la universidad."
+    "statement": "La reforma educativa está más focalizada en secundaria y primaria [...] la FP dual, el bilingüismo, las evaluaciones, la libertad elección de centro, y también las materias STEM [...]  A los jóvenes se les debería orientar por dónde va el mercado laboral. Y eso es lo yo que propongo que se haga en la universidad"
   },
   {
     "party": "Ciudadanos",

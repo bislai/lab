@@ -2,6 +2,51 @@
   {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/Pablo_Iglesias_/status/1110547700490141698",
+    "date": "26/3/2019",
+    "statement": "Debemos decir la verdad: solo si la sociedad asume esa tarea en sus propias manos, recuperando el control público al menos de una parte del sector energético, se podrá hacer la transición hacia un #HorizonteVerde que ponga la vida de las personas y del planeta en el centro."
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Calidad democrática",
+    "proposal": "Libre expresión de la ciudadanía",
+    "source": "https://twitter.com/Pablo_Iglesias_/status/1110641231527333889",
+    "date": "26/3/2019",
+    "statement": "El Parlamento Europeo ha adoptado una medida que afecta de manera muy seria a la libertad de expresión y a la libertad en internet en general. Es una medida sobre el Copyright, no es que nosotros estemos en contra del Copyright pero el artículo 13 de esta directiva afecta de manera muy agresiva a creadores que no van a poder seguir haciendo cosas muy sensatas a través de plataformas [...] Vamos a trabajar para limitar sus efectos porque es una vergüenza"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://www.atresplayer.com/antena3/programas/el-hormiguero/temporada-8/26-03-19_5c94c5057ed1a85e01c6dbaa/",
+    "date": "26/3/2019",
+    "statement": "Hacemos un pacto en el que sacamos el salario mínimo a 900 € [...] lo sacamos porque teníamos 67 diputados. Si tenemos más diputados esta vez o si ganamos podremos subir el salario mínimo un poco más."
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/antena3/programas/el-hormiguero/temporada-8/26-03-19_5c94c5057ed1a85e01c6dbaa/",
+    "date": "26/3/2019",
+    "statement": "Los que ganan mucho tienen que pagar un poquito más, tienen que esforzarse un poquito más. Eso si nosotros estamos en el gobierno se va a hacer."
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Calidad democrática",
+    "proposal": "Transparencia y lucha contra la corrupción",
+    "source": "https://twitter.com/Pablo_Iglesias_/status/1110301995313844225",
+    "date": "25/3/2019",
+    "statement": "Nosotros proponemos que ningún banco ni especulador financiero pueda controlar la libertad de prensa ni la democracia"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
     "topic": "Calidad democrática",
     "proposal": "Participación ciudadana y equilibrio representación parlamentaria",
     "source": "https://youtu.be/RyJAcAOPyZ8?t=5327",
@@ -69,7 +114,7 @@
     "proposal": "Contribución internacional de España contra desigualdad y pobreza",
     "source": "https://twitter.com/Irene_Montero_/status/1109005605128359937",
     "date": "22/3/2019",
-    "statement": "Millones de personas en el mundo viven todavía sin agua potable. Hoy, Día Mundial del Agua nos comprometemos a seguir trabajando para conseguir que se convierta en un bien común y deje de ser un negocio para especuladores. El agua es vida"
+    "statement": "Millones de personas en el mundo viven todavía sin agua potable. Hoy, Día Mundial del Agua, nos comprometemos a seguir trabajando para conseguir que se convierta en un bien común y deje de ser un negocio para especuladores. El agua es vida"
   },
   {
     "party": "Unidas Podemos",

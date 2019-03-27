@@ -2,6 +2,24 @@
   {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://youtu.be/pdqvBIZTlsM",
+    "date": "26/3/2019",
+    "statement": "...vamos lógicamente a acabar con la LOMCE y vamos a poner en pié una nueva ley educativa que acabe con esa ruptura y quiebra del pacto educativo que supuso la LOMCE..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://youtu.be/pdqvBIZTlsM",
+    "date": "26/3/2019",
+    "statement": "... la España del conocimiento significa también apostar por la formación profesional..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
     "topic": "Calidad democrática",
     "proposal": "Libre expresión de la ciudadanía",
     "source": "https://twitter.com/PSOE/status/1107231989822820352",
