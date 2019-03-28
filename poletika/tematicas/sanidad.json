@@ -1,5 +1,14 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Sanidad",
+    "proposal": "Acceso universal a los medicamentos y las tecnologías sanitarias",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Revisaremos el copago farmaceútico para atender, sobre todo a los pensionistas con menos ingresos"
+  },
+  {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Sanidad",

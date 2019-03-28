@@ -1,5 +1,23 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Seguiremos subiendo el Salario Mínimo Interprofesional para hacer efectivo el cumplimiento de la Carta Social Europea"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Empleo",
+    "proposal": "Brecha salarial de género",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "No vamos a descansar hasta sacar adelante la Proposición de Ley que garantiza la igualdad de oportunidades en el empleo. Vamos a romper, de una vez por todas, la brecha salarial. Para eso es imprescindible que el Gobierno garantice las condiciones de acceso, de estabilidad y de promoción laboral de las mujeres."
+  },
+  {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
     "topic": "Empleo",

@@ -1,5 +1,23 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Haremos efectiva la equiparación de los permisos por nacimiento de hijo"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Género",
+    "proposal": "Violencias de género y derechos sexuales y reproductivos",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Cambio en la tipificación de los delitos sexuales. Debemos avanzar en la reforma del código penal"
+  },
+  {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Género",

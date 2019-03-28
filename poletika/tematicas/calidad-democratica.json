@@ -1,5 +1,14 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Calidad democrática",
+    "proposal": "Transparencia y lucha contra la corrupción",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Nos comprometemos a modernizar la Administración Pública y hacerla más transparente [...]Hemos previsto crear una carpeta ciudadana, un único espacio en la web donde los ciudadanos y ciudadanas puedan accedes a todos los expedientes como instrumento de comunicación entre la ciudadanía y las administraciones públicas."
+  },
+  {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
     "topic": "Calidad democrática",

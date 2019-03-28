@@ -1,5 +1,23 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Trabajaremos [...] por una transición ecológica de nuestro modelo energético mediante el fomento de energías renovables, el autoconsumo y la creación de empleo en el sector."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Mantenemos el objetivo que nos propusimos, que en el año 2030 el 74% de la electricidad sea renovable."
+  },
+  {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
     "topic": "Cambio climático",

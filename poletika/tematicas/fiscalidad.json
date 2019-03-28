@@ -1,5 +1,23 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Las grandes empresa y los contribuyentes con más ingresos van a tener que hacer un esfuerzo suplementario en la sostenibilidad de nuestras cuentas públicas"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Fiscalidad",
+    "proposal": "Ley contra la evasión y elusión fiscal",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Redoblar los esfuerzos en la lucha contra la corrupción y el fraude fiscal"
+  },
+  {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
     "topic": "Fiscalidad",
