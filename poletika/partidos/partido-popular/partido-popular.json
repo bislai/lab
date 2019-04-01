@@ -2,11 +2,38 @@
   {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/populares/status/1111612614033985536",
+    "date": "29/3/2019",
+    "statement": "... el mensaje que quiero lanzar hoy es nítido: cuando yo sea presidente no se va a prohibir el diésel..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/populares/status/1111615164208431104",
+    "date": "29/3/2019",
+    "statement": "Nosotros también apostamos por las nuevas tecnologías, por las híbridas y por el coche eléctrico (...) nos tenemos que comprometer a poner los puntos de recarga..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/populares/status/1111615164208431104",
+    "date": "29/3/2019",
+    "statement": "... para que haya una transición hacia esas tecnologías también las Administraciones tienen que ayudar a la hora de fijar cuál es la tributación para las tecnologías menos contaminantes..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
     "topic": "Infancia",
     "proposal": "Pacto de Estado por la Infancia",
     "source": "https://mobile.twitter.com/pablocasado_/status/1110489436427571201?p=v",
     "date": "26/3/2019",
-    "statement": "📌Reforma de la Ley del Menor"
+    "statement": "Reforma de la Ley del Menor"
   },
   {
     "party": "Partido Popular",
@@ -15,7 +42,7 @@
     "proposal": "Transición energética justa, sostenible y eficiente",
     "source": "https://twitter.com/populares/status/1110096079792545792",
     "date": "25/3/2019",
-    "statement": "...queremos apostar porque no haya una demagogia medioambiental que adelante la descarbonización y la desnuclearización incluso antes de los plazos ya fijados muy exigentes por las autoridades europeas (...) también nosotros estamos a favor de que las centrales  nucleares que consideren que pueden seguir operando más allá delos 40 años (...) por los tiempos de paradas de mantenimiento (lo sigan haciendo)..."
+    "statement": "...queremos apostar porque no haya una demagogia medioambiental que adelante la descarbonización y la desnuclearización incluso antes de los plazos ya fijados muy exigentes por las autoridades europeas [...] también nosotros estamos a favor de que las centrales nucleares que consideren que pueden seguir operando más allá de los 40 años [...] por los tiempos de paradas de mantenimiento [lo sigan haciendo]..."
   },
   {
     "party": "Partido Popular",
@@ -24,7 +51,7 @@
     "proposal": "Educación inclusiva y de calidad",
     "source": "https://twitter.com/populares/status/1110096079792545792",
     "date": "25/3/2019",
-    "statement": "... Sexto, FP dual. Queremos prestigiar la FP, queremos participación de las empresas.."
+    "statement": "... FP dual. Queremos prestigiar la FP, queremos participación de las empresas..."
   },
   {
     "party": "Partido Popular",
@@ -33,7 +60,7 @@
     "proposal": "Pacto de Estado por la Educación",
     "source": "https://twitter.com/populares/status/1110096079792545792",
     "date": "25/3/2019",
-    "statement": "... y el punto octavo (...) MIR educativo para los profesores. Queremos prestigiar la docencia, queremos que estén bien remunerados, queremos que los niños quieran ser maestros, quieran ser profesores..."
+    "statement": "... MIR educativo para los profesores. Queremos prestigiar la docencia, queremos que estén bien remunerados, queremos que los niños quieran ser maestros, quieran ser profesores..."
   },
   {
     "party": "Partido Popular",

@@ -1,12 +1,30 @@
 [
   {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Hay que hacer una reforma fiscal, es imprescindible en España. Nuestro país está a 8 puntos de distancia, 8 puntos en relación al PIB de distancia con la media europea en términos de recaudación, en términos de justicia fiscal."
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Nosotros vamos a decir que el impuesto de Sociedades tiene que implicar primero que lo paguen. Los  principales bancos de este país no pagan ni un euro de impuesto de Sociedades a pesar de que tienen ingentes beneficios. Vamos a aplicar un extra 10 puntos en el impuesto de Sociedades para que puedan devolver poco a poco lo que le prestamos los ciudadanos y, además, un impuesto a las transacciones financieras."
+  },
+  {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Fiscalidad",
     "proposal": "Progresividad sistema tributario",
     "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
     "date": "27/3/2019",
-    "statement": "Las grandes empresa y los contribuyentes con más ingresos van a tener que hacer un esfuerzo suplementario en la sostenibilidad de nuestras cuentas públicas"
+    "statement": "Las grandes empresas y los contribuyentes con más ingresos van a tener que hacer un esfuerzo suplementario en la sostenibilidad de nuestras cuentas públicas"
   },
   {
     "party": "Partido Socialista",
@@ -24,7 +42,7 @@
     "proposal": "Progresividad sistema tributario",
     "source": "https://www.atresplayer.com/antena3/programas/el-hormiguero/temporada-8/26-03-19_5c94c5057ed1a85e01c6dbaa/",
     "date": "26/3/2019",
-    "statement": "Los que ganan mucho tienen que pagar un poquito más, tienen que esforzarse un poquito más. Eso si nosotros estamos en el gobierno se va a hacer."
+    "statement": "Los que ganan mucho tienen que pagar un poquito más, tienen que esforzarse un poquito más. Eso si nosotros estamos en el Gobierno se va a hacer"
   },
   {
     "party": "Ciudadanos",

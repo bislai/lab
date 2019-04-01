@@ -1,12 +1,21 @@
 [
   {
+    "party": "Vox",
+    "candidate": "Santiago Abascal",
+    "topic": "Desarrollo",
+    "proposal": "Contribución internacional de España contra desigualdad y pobreza",
+    "source": "https://twitter.com/Santi_ABASCAL/status/1112321047129395200",
+    "date": "31/3/2019",
+    "statement": "En España estamos a tiempo de mostrar a Europa otro camino. No podemos permitir que ese multiculturalismo patrocinado liquide la ley, el orden, nuestros derechos y libertades y, al fin, nuestra civilización. \nQuien no sepa integrarse que no venga. Y si ha venido, que se vaya"
+  },
+  {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Desarrollo",
     "proposal": "Peso de Cooperación para el Desarrollo en acción exterior",
     "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
     "date": "27/3/2019",
-    "statement": "Recuperaremos algo muy importante con lo que siempre ha estado vinculado comprometido el gobierno del PSOE y ha sido nuestro liderazgo en la cooperación al desarrollo con el objetivo de alcanzar el 0,5% del PIB"
+    "statement": "Recuperaremos algo muy importante con lo que siempre ha estado vinculado y comprometido el Gobierno del PSOE y ha sido nuestro liderazgo en la Cooperación al Desarrollo con el objetivo de alcanzar el 0,5% del PIB"
   },
   {
     "party": "Unidas Podemos",

@@ -1,5 +1,14 @@
 [
   {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Somos el segundo país con más paro juvenil de la Unión Europea y quien tiene la suerte entre comillas de tener un trabajo lo tiene en condiciones de precariedad [...] Hay que apostar por el contrato indefinido, limitar el contrato temporal. Nosotros vamos a llevar en el programa que sea de un mínimo de un mes y de un máximo de seis meses y aplicar una cláusula que se llama el Malus para perjudicar a las empresas que abusen de la contratación temporal."
+  },
+  {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Empleo",
@@ -15,7 +24,7 @@
     "proposal": "Brecha salarial de género",
     "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
     "date": "27/3/2019",
-    "statement": "No vamos a descansar hasta sacar adelante la Proposición de Ley que garantiza la igualdad de oportunidades en el empleo. Vamos a romper, de una vez por todas, la brecha salarial. Para eso es imprescindible que el Gobierno garantice las condiciones de acceso, de estabilidad y de promoción laboral de las mujeres."
+    "statement": "No vamos a descansar hasta sacar adelante la Proposición de Ley que garantiza la igualdad de oportunidades en el empleo. Vamos a romper, de una vez por todas, la brecha salarial. Para eso es imprescindible que el Gobierno garantice las condiciones de acceso, de estabilidad y de promoción laboral de las mujeres"
   },
   {
     "party": "Unidas Podemos",
@@ -24,7 +33,7 @@
     "proposal": "Salarios y precariedad",
     "source": "https://www.atresplayer.com/antena3/programas/el-hormiguero/temporada-8/26-03-19_5c94c5057ed1a85e01c6dbaa/",
     "date": "26/3/2019",
-    "statement": "Hacemos un pacto en el que sacamos el salario mínimo a 900 € [...] lo sacamos porque teníamos 67 diputados. Si tenemos más diputados esta vez o si ganamos podremos subir el salario mínimo un poco más."
+    "statement": "Hacemos un pacto en el que sacamos el salario mínimo a 900 € [...] lo sacamos porque teníamos 67 diputados. Si tenemos más diputados esta vez o si ganamos podremos subir el salario mínimo un poco más"
   },
   {
     "party": "Ciudadanos",

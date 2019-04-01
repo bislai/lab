@@ -1,12 +1,66 @@
 [
   {
-    "party": "Partido Socialista",
-    "candidate": "Pedro Sánchez",
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Cambio climático",
+    "proposal": "Producción, transporte y consumo limpios y sostenibles",
+    "source": "https://youtu.be/hf4aqT7J9ZM?t=243",
+    "date": "30/3/2019",
+    "statement": "una de las primeras medidas de un programa de gobierno (...) les anuncio que Ciudadanos en los primeros 100 días va a presentar un proyecto de ley para luchar y acabar con los residuos plásticos, no podemos tener residuos plásticos y plásticos de un solo uso"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Cambio climático",
+    "proposal": "Lucha contra el cambio climático",
+    "source": "https://youtu.be/hf4aqT7J9ZM?t=1019",
+    "date": "30/3/2019",
+    "statement": "plantea un fondo nacional, la creación de un fondo de inversiones tecnológicas para todo tipo de actividades, también empresariales, también del sector público, (...) para que este país lidere la creación de empleo verde y este país lidere la reducción de residuos y la reducción de contaminación"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
-    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
-    "date": "27/3/2019",
-    "statement": "Trabajaremos [...] por una transición ecológica de nuestro modelo energético mediante el fomento de energías renovables, el autoconsumo y la creación de empleo en el sector."
+    "source": "https://twitter.com/CiudadanosCs/status/1111568767115497473",
+    "date": "29/3/2019",
+    "statement": "Una transición energética [...] yo he hablado de un mix energético y un mix significa que haya un tanto por ciento de todo. Habrá que progresivamente hacer energias más limpias porque así lo necesitamos [...] pero también tenemos que comer."
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Cambio climático",
+    "proposal": "Lucha contra el cambio climático",
+    "source": "https://twitter.com/CiudadanosCs/status/1111568767115497473",
+    "date": "29/3/2019",
+    "statement": "Primero Pacto, nadie puede tocar el mundo energético por su cuenta [...] el tema del carbón, es evidente que el futuro pasa por otro tipo de energías pero necesitamos esa transición. Tenemos que invertir tiempo, planes de empleo con transparencia y buenas ideas para que mucha gente tenga la oportunidad de trabajar en otro sector."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/populares/status/1111612614033985536",
+    "date": "29/3/2019",
+    "statement": "... el mensaje que quiero lanzar hoy es nítido: cuando yo sea presidente no se va a prohibir el diésel..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/populares/status/1111615164208431104",
+    "date": "29/3/2019",
+    "statement": "Nosotros también apostamos por las nuevas tecnologías, por las híbridas y por el coche eléctrico (...) nos tenemos que comprometer a poner los puntos de recarga..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/populares/status/1111615164208431104",
+    "date": "29/3/2019",
+    "statement": "... para que haya una transición hacia esas tecnologías también las Administraciones tienen que ayudar a la hora de fijar cuál es la tributación para las tecnologías menos contaminantes..."
   },
   {
     "party": "Partido Socialista",
@@ -15,7 +69,16 @@
     "proposal": "Transición energética justa, sostenible y eficiente",
     "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
     "date": "27/3/2019",
-    "statement": "Mantenemos el objetivo que nos propusimos, que en el año 2030 el 74% de la electricidad sea renovable."
+    "statement": "Trabajaremos [...] por una transición ecológica de nuestro modelo energético mediante el fomento de energías renovables, el autoconsumo y la creación de empleo en el sector"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Mantenemos el objetivo que nos propusimos: que en el año 2030 el 74% de la electricidad sea renovable"
   },
   {
     "party": "Unidas Podemos",
@@ -24,7 +87,7 @@
     "proposal": "Transición energética justa, sostenible y eficiente",
     "source": "https://twitter.com/Pablo_Iglesias_/status/1110547700490141698",
     "date": "26/3/2019",
-    "statement": "Debemos decir la verdad: solo si la sociedad asume esa tarea en sus propias manos, recuperando el control público al menos de una parte del sector energético, se podrá hacer la transición hacia un #HorizonteVerde que ponga la vida de las personas y del planeta en el centro."
+    "statement": "Debemos decir la verdad: solo si la sociedad asume esa tarea en sus propias manos, recuperando el control público al menos de una parte del sector energético, se podrá hacer la transición hacia un #HorizonteVerde que ponga la vida de las personas y del planeta en el centro"
   },
   {
     "party": "Partido Popular",
@@ -33,7 +96,7 @@
     "proposal": "Transición energética justa, sostenible y eficiente",
     "source": "https://twitter.com/populares/status/1110096079792545792",
     "date": "25/3/2019",
-    "statement": "...queremos apostar porque no haya una demagogia medioambiental que adelante la descarbonización y la desnuclearización incluso antes de los plazos ya fijados muy exigentes por las autoridades europeas (...) también nosotros estamos a favor de que las centrales  nucleares que consideren que pueden seguir operando más allá delos 40 años (...) por los tiempos de paradas de mantenimiento (lo sigan haciendo)..."
+    "statement": "...queremos apostar porque no haya una demagogia medioambiental que adelante la descarbonización y la desnuclearización incluso antes de los plazos ya fijados muy exigentes por las autoridades europeas [...] también nosotros estamos a favor de que las centrales nucleares que consideren que pueden seguir operando más allá de los 40 años [...] por los tiempos de paradas de mantenimiento [lo sigan haciendo]..."
   },
   {
     "party": "Partido Popular",
