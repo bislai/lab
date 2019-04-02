@@ -6,7 +6,7 @@
     "proposal": "Salarios y precariedad",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
     "date": "31/3/2019",
-    "statement": "Somos el segundo país con más paro juvenil de la Unión Europea y quien tiene la suerte entre comillas de tener un trabajo lo tiene en condiciones de precariedad [...] Hay que apostar por el contrato indefinido, limitar el contrato temporal. Nosotros vamos a llevar en el programa que sea de un mínimo de un mes y de un máximo de seis meses y aplicar una cláusula que se llama el Malus para perjudicar a las empresas que abusen de la contratación temporal."
+    "statement": "Somos el segundo país con más paro juvenil de la Unión Europea y quien tiene la suerte entre comillas de tener un trabajo lo tiene en condiciones de precariedad [...] Hay que apostar por el contrato indefinido, limitar el contrato temporal [...] que sea de un mínimo de un mes y de un máximo de seis meses y aplicar una cláusula que se llama el Malus para perjudicar a las empresas que abusen de la contratación temporal"
   },
   {
     "party": "Unidas Podemos",
@@ -15,16 +15,16 @@
     "proposal": "Progresividad sistema tributario",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
     "date": "31/3/2019",
-    "statement": "Hay que hacer una reforma fiscal, es imprescindible en España. Nuestro país está a 8 puntos de distancia, 8 puntos en relación al PIB de distancia con la media europea en términos de recaudación, en términos de justicia fiscal."
+    "statement": "Hay que hacer una reforma fiscal, es imprescindible en España. Nuestro país está a [...] 8 puntos en relación al PIB de distancia con la media europea en términos de recaudación, en términos de justicia fiscal"
   },
   {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
     "topic": "Fiscalidad",
-    "proposal": "Progresividad sistema tributario",
+    "proposal": "Justicia fiscal para grandes empresas",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
     "date": "31/3/2019",
-    "statement": "Nosotros vamos a decir que el impuesto de Sociedades tiene que implicar primero que lo paguen. Los  principales bancos de este país no pagan ni un euro de impuesto de Sociedades a pesar de que tienen ingentes beneficios. Vamos a aplicar un extra 10 puntos en el impuesto de Sociedades para que puedan devolver poco a poco lo que le prestamos los ciudadanos y, además, un impuesto a las transacciones financieras."
+    "statement": "Nosotros vamos a decir que el Impuesto de Sociedades tiene que implicar primero que lo paguen. Los principales bancos de este país no pagan ni un euro de Impuesto de Sociedades a pesar de que tienen ingentes beneficios. Vamos a aplicar un extra de 10 puntos en el Impuesto de Sociedades para que puedan devolver, poco a poco, lo que les prestamos los ciudadanos ..."
   },
   {
     "party": "Unidas Podemos",
@@ -38,20 +38,47 @@
   {
     "party": "Unidas Podemos",
     "candidate": "Pablo Iglesias",
-    "topic": "Calidad democrática",
-    "proposal": "Transparencia y lucha contra la corrupción",
-    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
-    "date": "31/3/2019",
-    "statement": "Internet tiene que llegar a todos los pueblos de este país."
-  },
-  {
-    "party": "Unidas Podemos",
-    "candidate": "Pablo Iglesias",
     "topic": "Protección social",
     "proposal": "Sistema de ingresos mínimos",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
     "date": "31/3/2019",
     "statement": "Hay que hacer que ninguna pensión esté por debajo de los 600 euros, estoy hablando de las no contributivas y de las pensiones mínimas, que las pensiones se tienen que actualizar al IPC por ley. Hay que acabar con eso que llaman factor de sostenibilidad [...] Una democracia que aspira a ser un Estado del Bienestar tiene que garantizar la sostenibilidad del sistema de pensiones."
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Nosotros vamos a plantear una reducción a 34 horas para facilitar la conciliación"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Género",
+    "proposal": "Violencias de género y derechos sexuales y reproductivos",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Alternativa habitacional a cualquier mujer víctima de violencia machista sin necesidad de denuncia y vamos a proponer, al menos durante 6 meses prorrogables, un salario mínimo de 900 euros para que esa mujer se pueda ir de la casa en la que convive, en el caso de convivencia, con el matratador sin necesidad de denuncia, simplemente con informe de los servicios sociales"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Nosotros apostamos por crear una empresa pública de energía que actúe únicamente con energías renovables que se convierta en una referencia para la gestión eficiente y la eficiencia energética"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Proponemos que los patrimonios a partir de 1.000.000 euros, excluyendo la primera vivienda hasta 400.000 euros, tengan que pagar un poquito más. Que a partir de determinadas cantidades, más de 100.000 euros, el IRPF cumpla un poco más la Constitución, que dice que el sistema fiscal tiene que ser progresivo"
   },
   {
     "party": "Unidas Podemos",
@@ -69,7 +96,7 @@
     "proposal": "Libre expresión de la ciudadanía",
     "source": "https://twitter.com/Pablo_Iglesias_/status/1110641231527333889",
     "date": "26/3/2019",
-    "statement": "El Parlamento Europeo ha adoptado una medida que afecta de manera muy seria a la libertad de expresión y a la libertad en internet en general. Es una medida sobre el Copyright, no es que nosotros estemos en contra del Copyright pero el artículo 13 de esta Directiva afecta de manera muy agresiva a creadores que no van a poder seguir haciendo cosas muy sensatas a través de plataformas [...] Vamos a trabajar para limitar sus efectos porque es una vergüenza"
+    "statement": "El Parlamento Europeo ha adoptado una medida que afecta de manera muy seria a la libertad de expresión y a la libertad en internet en general. Es una medida sobre el Copyright [...] que afecta de manera muy agresiva a creadores que no van a poder seguir haciendo cosas muy sensatas a través de plataformas [...] Vamos a trabajar para limitar sus efectos porque es una vergüenza"
   },
   {
     "party": "Unidas Podemos",
@@ -141,7 +168,7 @@
     "proposal": "Justicia fiscal para grandes empresas",
     "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
     "date": "23/3/2019",
-    "statement": "Nosotros proponemos más medidas [...] nosotros decimos que hay que asegurar que los bancos paguen el impuesto de sociedades"
+    "statement": "Nosotros proponemos más medidas [...] nosotros decimos que hay que asegurar que los bancos paguen el Impuesto de Sociedades"
   },
   {
     "party": "Unidas Podemos",
@@ -159,7 +186,7 @@
     "proposal": "Organización social de los cuidados",
     "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
     "date": "23/3/2019",
-    "statement": "Lo que termina ocurriendo es que los niños se quedan con la madre. Y eso es una vergüenza. Nosotros hemos demostrado algo que están señalando las mujeres y que va a ser el futuro de este país: que los permisos de paternidad y maternidad tienen que ser iguales. Y hasta que no sean intransferibles, lo que seguirá ocurriendo por desgracia en este país es que la carga de los cuidados las van a asumir exclusivamente las mujeres"
+    "statement": "Lo que termina ocurriendo es que los niños se quedan con la madre. [...] Los permisos de paternidad y maternidad tienen que ser iguales. Y hasta que no sean intransferibles, lo que seguirá ocurriendo por desgracia en este país es que la carga de los cuidados las van a asumir exclusivamente las mujeres"
   },
   {
     "party": "Unidas Podemos",

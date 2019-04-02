@@ -1,5 +1,23 @@
 [
   {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Infancia",
+    "proposal": "Pobreza y la exclusión social infantil",
+    "source": "https://twitter.com/sanchezcastejon/status/1110919654950600707",
+    "date": "27/3/2019",
+    "statement": "...vamos a liderar un Pacto Nacional contra la pobreza infantil..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Infancia",
+    "proposal": "Derechos de la infancia",
+    "source": "https://twitter.com/sanchezcastejon/status/1110919654950600707",
+    "date": "27/3/2019",
+    "statement": "... Vamos a aprobar (...) una ley contra la violencia infantil..."
+  },
+  {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
     "topic": "Infancia",

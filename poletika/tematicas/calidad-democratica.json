@@ -1,23 +1,5 @@
 [
   {
-    "party": "Unidas Podemos",
-    "candidate": "Pablo Iglesias",
-    "topic": "Calidad democrática",
-    "proposal": "Transparencia y lucha contra la corrupción",
-    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
-    "date": "31/3/2019",
-    "statement": "Internet tiene que llegar a todos los pueblos de este país."
-  },
-  {
-    "party": "Ciudadanos",
-    "candidate": "Albert Rivera",
-    "topic": "Calidad democrática",
-    "proposal": "Transparencia y lucha contra la corrupción",
-    "source": "https://youtu.be/hf4aqT7J9ZM?t=922",
-    "date": "30/3/2019",
-    "statement": "la conectividad (internet) en el 100% del territorio tiene que ser un objetivo a largo plazo en este pais"
-  },
-  {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Calidad democrática",
@@ -33,7 +15,7 @@
     "proposal": "Libre expresión de la ciudadanía",
     "source": "https://twitter.com/Pablo_Iglesias_/status/1110641231527333889",
     "date": "26/3/2019",
-    "statement": "El Parlamento Europeo ha adoptado una medida que afecta de manera muy seria a la libertad de expresión y a la libertad en internet en general. Es una medida sobre el Copyright, no es que nosotros estemos en contra del Copyright pero el artículo 13 de esta Directiva afecta de manera muy agresiva a creadores que no van a poder seguir haciendo cosas muy sensatas a través de plataformas [...] Vamos a trabajar para limitar sus efectos porque es una vergüenza"
+    "statement": "El Parlamento Europeo ha adoptado una medida que afecta de manera muy seria a la libertad de expresión y a la libertad en internet en general. Es una medida sobre el Copyright [...] que afecta de manera muy agresiva a creadores que no van a poder seguir haciendo cosas muy sensatas a través de plataformas [...] Vamos a trabajar para limitar sus efectos porque es una vergüenza"
   },
   {
     "party": "Ciudadanos",

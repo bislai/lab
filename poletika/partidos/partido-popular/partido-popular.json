@@ -2,11 +2,65 @@
   {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
+    "topic": "Protección social",
+    "proposal": "Sistema de ingresos mínimos",
+    "source": "https://www.pscp.tv/w/1OdKrROlQklKX?t=7",
+    "date": "31/3/2019",
+    "statement": "Apostamos por los servicios sociales en el entorno rural, (...) hay que garantizar la prestación de los servicios en el entorno rural"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Lucha contra el cambio climático",
+    "source": "https://www.pscp.tv/w/1OdKrROlQklKX?t=7",
+    "date": "31/3/2019",
+    "statement": "Yo no apuesto por una descarbonización demagógica, (...) la energía tendrá que seguir siendo rentable, conforme lo digan los que pagan esa industria o según los acuerdos que hayamos firmado en Europa"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "Hemos propuesto extender la tarifa plana de 50€ al mes por 12 años más y para los núcleos de población de menos de 5000 hab y para los hombres y mujeres que quieren seguir trabajando en el entorno rural"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "Queremos una educación de calidad. Una educación en libertad, que los padres decidan dónde mandar a sus hijos, sea un colegio público o concertado, sea un colegio con educación inclusiva o especial. Libertad para los padres y evaluación, para saber cómo van nuestros hijos y nuestros colegios y las Administraciones que pagan los colegios y a los profesores"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "MIR educativo a nivel nacional, (...) prestigiar la profesión docente, no imponer lenguas cooficiales que son barreras endogámicas para la propia Administración Pública"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "Materias tecnológicas, (...) porque es de lo que se está necesitando mano de obra, hay que apostar por la FP Dual"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
     "topic": "Cambio climático",
     "proposal": "Transición energética justa, sostenible y eficiente",
     "source": "https://twitter.com/populares/status/1111612614033985536",
     "date": "29/3/2019",
-    "statement": "... el mensaje que quiero lanzar hoy es nítido: cuando yo sea presidente no se va a prohibir el diésel..."
+    "statement": "... el mensaje que quiero lanzar hoy es nítido: cuando yo sea Presidente no se va a prohibir el diésel..."
   },
   {
     "party": "Partido Popular",
@@ -29,6 +83,15 @@
   {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
+    "topic": "Cambio climático",
+    "proposal": "Transición energética justa, sostenible y eficiente",
+    "source": "https://twitter.com/pablocasado_/status/1111648754451529728",
+    "date": "29/3/2019",
+    "statement": "…apostar por las tecnologías eléctricas e híbridas y una fiscalidad que favorezca a este tipo de motores. En cuarto lugar, no renunciar al diésel, defender a los conductores que tienen diésel […] y a los fabricantes de este tipo de motores…"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
     "topic": "Infancia",
     "proposal": "Pacto de Estado por la Infancia",
     "source": "https://mobile.twitter.com/pablocasado_/status/1110489436427571201?p=v",
@@ -39,7 +102,7 @@
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
     "topic": "Cambio climático",
-    "proposal": "Transición energética justa, sostenible y eficiente",
+    "proposal": "Lucha contra el cambio climático",
     "source": "https://twitter.com/populares/status/1110096079792545792",
     "date": "25/3/2019",
     "statement": "...queremos apostar porque no haya una demagogia medioambiental que adelante la descarbonización y la desnuclearización incluso antes de los plazos ya fijados muy exigentes por las autoridades europeas [...] también nosotros estamos a favor de que las centrales nucleares que consideren que pueden seguir operando más allá de los 40 años [...] por los tiempos de paradas de mantenimiento [lo sigan haciendo]..."
@@ -78,7 +141,16 @@
     "proposal": "Justicia fiscal para grandes empresas",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "Como todavía no estamos a nivel de la renta per capita de nuestros competidores, ¿qué tenemos que hacer? Flexibilizar mercado laboral y tener costes fijos energéticos, licencias y costes fiscales más competitivos si no no vamos a atraer a inversores"
+    "statement": "Como todavía no estamos a nivel de la renta per capita de nuestros competidores, ¿qué tenemos que hacer? [...] tener costes fiscales más competitivos si no no vamos a atraer a inversores"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
+    "date": "24/3/2019",
+    "statement": "Como todavía no estamos a nivel de la renta per capita de nuestros competidores, ¿qué tenemos que hacer? Flexibilizar mercado laboral [...] si no no vamos a atraer a inversores"
   },
   {
     "party": "Partido Popular",
@@ -96,7 +168,7 @@
     "proposal": "Salarios y precariedad",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "Yo quiero convertir a España en la California de Europa, ¿y eso cómo se hace? Atrayendo talento, apostando porque los costes fijos tanto energéticos como laborales, como fiscales, como burocráticos sean menores y luego el tema de la formación. Apostamos por la FP dual y apostamos por las nuevas materias en las que hay empleo."
+    "statement": "Yo quiero convertir a España en la California de Europa, ¿y eso cómo se hace? Atrayendo talento, apostando porque los costes fijos [...] laborales sean menores"
   },
   {
     "party": "Partido Popular",
@@ -105,7 +177,16 @@
     "proposal": "Educación inclusiva y de calidad",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "La reforma educativa está más focalizada en secundaria y primaria [...] la FP dual, el bilingüismo, las evaluaciones, la libertad elección de centro, y también las materias STEM [...]  A los jóvenes se les debería orientar por dónde va el mercado laboral. Y eso es lo yo que propongo que se haga en la universidad"
+    "statement": "Yo quiero convertir a España en la California de Europa, ¿y eso cómo se hace? Atrayendo talento, apostando por [...] el tema de la formación. Apostamos por la FP dual y apostamos por las nuevas materias en las que hay empleo"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
+    "date": "24/3/2019",
+    "statement": "La reforma educativa está más focalizada en secundaria y primaria [...] la FP dual, el bilingüismo, las evaluaciones, la libertad de elección de centro, y también las materias STEM [...]  A los jóvenes se les debería orientar por dónde va el mercado laboral. Y eso es lo yo que propongo que se haga en la universidad"
   },
   {
     "party": "Partido Popular",

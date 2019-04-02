@@ -1,5 +1,32 @@
 [
   {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "Queremos una educación de calidad. Una educación en libertad, que los padres decidan dónde mandar a sus hijos, sea un colegio público o concertado, sea un colegio con educación inclusiva o especial. Libertad para los padres y evaluación, para saber cómo van nuestros hijos y nuestros colegios y las Administraciones que pagan los colegios y a los profesores"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "MIR educativo a nivel nacional, (...) prestigiar la profesión docente, no imponer lenguas cooficiales que son barreras endogámicas para la propia Administración Pública"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.pscp.tv/w/1eaJbOWNXgvxX?t=12",
+    "date": "30/3/2019",
+    "statement": "Materias tecnológicas, (...) porque es de lo que se está necesitando mano de obra, hay que apostar por la FP Dual"
+  },
+  {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Educación",
@@ -12,19 +39,10 @@
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
     "topic": "Educación",
-    "proposal": "Educación inclusiva y de calidad",
-    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
-    "date": "27/3/2019",
-    "statement": "Avanzaremos en la gratuidad de las escuelas infantiles con el objetivo de que en 2025 un 50% de los menores de 3 años tengan garantizado el acceso a las escuelas infantiles en nuestro país"
-  },
-  {
-    "party": "Partido Socialista",
-    "candidate": "Pedro Sánchez",
-    "topic": "Educación",
     "proposal": "Pacto de Estado por la Educación",
     "source": "https://youtu.be/pdqvBIZTlsM",
     "date": "26/3/2019",
-    "statement": "...vamos lógicamente a acabar con la LOMCE y vamos a poner en pié una nueva ley educativa que acabe con esa ruptura y quiebra del pacto educativo que supuso la LOMCE..."
+    "statement": "...vamos lógicamente a acabar con la LOMCE y vamos a poner en pie una nueva ley educativa que acabe con esa ruptura y quiebra del pacto educativo que supuso la LOMCE..."
   },
   {
     "party": "Partido Socialista",
@@ -60,7 +78,16 @@
     "proposal": "Educación inclusiva y de calidad",
     "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
     "date": "24/3/2019",
-    "statement": "La reforma educativa está más focalizada en secundaria y primaria [...] la FP dual, el bilingüismo, las evaluaciones, la libertad elección de centro, y también las materias STEM [...]  A los jóvenes se les debería orientar por dónde va el mercado laboral. Y eso es lo yo que propongo que se haga en la universidad"
+    "statement": "Yo quiero convertir a España en la California de Europa, ¿y eso cómo se hace? Atrayendo talento, apostando por [...] el tema de la formación. Apostamos por la FP dual y apostamos por las nuevas materias en las que hay empleo"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Educación inclusiva y de calidad",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-casado_5c94fc6e7ed1a85e0289a80b/",
+    "date": "24/3/2019",
+    "statement": "La reforma educativa está más focalizada en secundaria y primaria [...] la FP dual, el bilingüismo, las evaluaciones, la libertad de elección de centro, y también las materias STEM [...]  A los jóvenes se les debería orientar por dónde va el mercado laboral. Y eso es lo yo que propongo que se haga en la universidad"
   },
   {
     "party": "Ciudadanos",

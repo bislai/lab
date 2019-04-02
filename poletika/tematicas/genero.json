@@ -1,12 +1,21 @@
 [
   {
-    "party": "Ciudadanos",
-    "candidate": "Albert Rivera",
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Nosotros vamos a plantear una reducción a 34 horas para facilitar la conciliación"
+  },
+  {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
     "topic": "Género",
     "proposal": "Violencias de género y derechos sexuales y reproductivos",
-    "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/30-03-19-albert-rivera_5c9e38c47ed1a885bb36ba26/",
-    "date": "30/3/2019",
-    "statement": "yo solo pido una regulación para la gestación subrogada (...) una propuesta que pretende que una mujer mayor de 25 años (...), que ya tiene que haber tenido algún hijo, que tiene una condición económica suficiente con un reglamento que tiene que demostrar, es decir que no puede ser una persona en el umbral de la pobreza, pueda colaborar con otra persona (...) cual es el problema que una mujer libre, mayor de edad, con más de 25 años, que ha tenido hijos y que tiene recursos pueda ayudar a darle vida y a darle una familia a otra persona sin dinero de por medio, es altruista."
+    "source": "https://www.atresplayer.com/lasexta/programas/el-objetivo/temporada-7/pablo-iglesias_5c9f4c087ed1a885b9056c21/",
+    "date": "31/3/2019",
+    "statement": "Alternativa habitacional a cualquier mujer víctima de violencia machista sin necesidad de denuncia y vamos a proponer, al menos durante 6 meses prorrogables, un salario mínimo de 900 euros para que esa mujer se pueda ir de la casa en la que convive, en el caso de convivencia, con el matratador sin necesidad de denuncia, simplemente con informe de los servicios sociales"
   },
   {
     "party": "Ciudadanos",
@@ -15,7 +24,25 @@
     "proposal": "Violencias de género y derechos sexuales y reproductivos",
     "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/30-03-19-albert-rivera_5c9e38c47ed1a885bb36ba26/",
     "date": "30/3/2019",
-    "statement": "Ley nacional de parejas de hecho que tengan los mismos derechos que un matrimonio, (...) ¿porque no pueden tener derecho a hacer la renta conjunta si les interesa? (...) Un paso fundamental Equiparar las parejas de hecho a los matrimonios"
+    "statement": "Yo solo pido una regulación para la gestación subrogada (...) una propuesta que pretende que una mujer mayor de 25 años (...), que ya tiene que haber tenido algún hijo, que tiene una condición económica suficiente con un reglamento que tiene que demostrar, es decir que no puede ser una persona en el umbral de la pobreza, pueda [...] ayudar a darle vida y a darle una familia a otra persona sin dinero de por medio, es altruista"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Género",
+    "proposal": "Violencias de género y derechos sexuales y reproductivos",
+    "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/30-03-19-albert-rivera_5c9e38c47ed1a885bb36ba26/",
+    "date": "30/3/2019",
+    "statement": "Ley nacional de parejas de hecho; que tengan los mismos derechos que un matrimonio, (...) ¿porque no pueden tener derecho a hacer la renta conjunta si les interesa? (...) Un paso fundamental es equiparar las parejas de hecho a los matrimonios"
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
+    "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
+    "date": "27/3/2019",
+    "statement": "Avanzaremos en la gratuidad de las escuelas infantiles con el objetivo de que en 2025 un 50% de los menores de 3 años tengan garantizado el acceso a las escuelas infantiles en nuestro país"
   },
   {
     "party": "Partido Socialista",
@@ -51,7 +78,7 @@
     "proposal": "Organización social de los cuidados",
     "source": "https://www.atresplayer.com/lasexta/programas/lasexta-noche/temporada-1/23-03-19-pablo-iglesias_5c94e6907ed1a85e0289a7c5/",
     "date": "23/3/2019",
-    "statement": "Lo que termina ocurriendo es que los niños se quedan con la madre. Y eso es una vergüenza. Nosotros hemos demostrado algo que están señalando las mujeres y que va a ser el futuro de este país: que los permisos de paternidad y maternidad tienen que ser iguales. Y hasta que no sean intransferibles, lo que seguirá ocurriendo por desgracia en este país es que la carga de los cuidados las van a asumir exclusivamente las mujeres"
+    "statement": "Lo que termina ocurriendo es que los niños se quedan con la madre. [...] Los permisos de paternidad y maternidad tienen que ser iguales. Y hasta que no sean intransferibles, lo que seguirá ocurriendo por desgracia en este país es que la carga de los cuidados las van a asumir exclusivamente las mujeres"
   },
   {
     "party": "Ciudadanos",

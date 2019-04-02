@@ -11,8 +11,8 @@
   {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
-    "topic": "Educación",
-    "proposal": "Educación inclusiva y de calidad",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
     "source": "https://www.youtube.com/watch?v=1x48_N16vrY",
     "date": "27/3/2019",
     "statement": "Avanzaremos en la gratuidad de las escuelas infantiles con el objetivo de que en 2025 un 50% de los menores de 3 años tengan garantizado el acceso a las escuelas infantiles en nuestro país"
@@ -119,11 +119,29 @@
   {
     "party": "Partido Socialista",
     "candidate": "Pedro Sánchez",
+    "topic": "Infancia",
+    "proposal": "Pobreza y la exclusión social infantil",
+    "source": "https://twitter.com/sanchezcastejon/status/1110919654950600707",
+    "date": "27/3/2019",
+    "statement": "...vamos a liderar un Pacto Nacional contra la pobreza infantil..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Infancia",
+    "proposal": "Derechos de la infancia",
+    "source": "https://twitter.com/sanchezcastejon/status/1110919654950600707",
+    "date": "27/3/2019",
+    "statement": "... Vamos a aprobar (...) una ley contra la violencia infantil..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
     "topic": "Educación",
     "proposal": "Pacto de Estado por la Educación",
     "source": "https://youtu.be/pdqvBIZTlsM",
     "date": "26/3/2019",
-    "statement": "...vamos lógicamente a acabar con la LOMCE y vamos a poner en pié una nueva ley educativa que acabe con esa ruptura y quiebra del pacto educativo que supuso la LOMCE..."
+    "statement": "...vamos lógicamente a acabar con la LOMCE y vamos a poner en pie una nueva ley educativa que acabe con esa ruptura y quiebra del pacto educativo que supuso la LOMCE..."
   },
   {
     "party": "Partido Socialista",
