@@ -2,6 +2,51 @@
   {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
+    "topic": "Empleo",
+    "proposal": "Salarios y precariedad",
+    "source": "https://www.youtube.com/watch?v=IumV-qRBL1g",
+    "date": "3/4/2019",
+    "statement": "El empleo, para mí, va a ser una prioridad, un empleo de calidad para que no haya precariedad laboral, porque [...] hay gente que entra y sale del mercado laboral con contratos basura, pero también para facilitar la contratación a autónomos y a empresas [...]. Esto es un pacto, un acuerdo para crear empleos y que sea de calidad"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.youtube.com/watch?v=IumV-qRBL1g",
+    "date": "3/4/2019",
+    "statement": "Creemos que tiene que haber tipos impositivos moderados y, por lo tanto, más gente contribuyendo. Si en vez de tener 10 personas pagando muchos impuestos tenemos 20 pagando un poco menos, acabamos recaudando un poco más [...] Yo propongo tipos moderados"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Calidad democrática",
+    "proposal": "Participación ciudadana y equilibrio representación parlamentaria",
+    "source": "https://www.youtube.com/watch?v=IumV-qRBL1g",
+    "date": "3/4/2019",
+    "statement": "Yo quiero que en este país la Ley Electoral cambie tres cosas fundamentales. Una, que el voto sea más proporcional [...]. Que haya listas abiertas [...] y, finalmente, un corte electoral del 3% para entrar en el Congreso"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Género",
+    "proposal": "Organización social de los cuidados",
+    "source": "https://www.atresplayer.com/antena3/snacks/entrevistas-elecciones-generales-28a/Temporada%201/01-04-19-albert-rivera_5ca26a657ed1a8d239457c4d/",
+    "date": "1/4/2019",
+    "statement": "La mejor medida contra la brecha salarial son permisos de paternidad y educación infantil"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Fiscalidad",
+    "proposal": "Progresividad sistema tributario",
+    "source": "https://www.atresplayer.com/antena3/snacks/entrevistas-elecciones-generales-28a/Temporada%201/01-04-19-albert-rivera_5ca26a657ed1a8d239457c4d/",
+    "date": "1/4/2019",
+    "statement": "Se piensan que subiendo impuestos se recauda más y no es verdad, yo propongo lo contrario [...]. Una economía abierta y liberal siempre generará más ingresos que una economía cerrada y con más impuestos"
+  },
+  {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
     "topic": "Cambio climático",
     "proposal": "Producción, transporte y consumo limpios y sostenibles",
     "source": "https://youtu.be/hf4aqT7J9ZM?t=243",
