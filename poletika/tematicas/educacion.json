@@ -1,5 +1,41 @@
 [
   {
+    "party": "Ciudadanos",
+    "candidate": "Albert Rivera",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://twitter.com/Albert_Rivera/status/1115216422525861888",
+    "date": "8/4/2019",
+    "statement": "Nuestro pacto nacional por la educación incluirá, entre otras muchas medidas: Una nueva asignatura obligatoria: ‘Constitución Española’. Selectividad única en todo el país. Alta Inspección Educativa. Español vehicular en toda España"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Violencia y acoso escolar",
+    "source": "https://youtu.be/IF_pZ0jk8DE?t=4864",
+    "date": "7/4/2019",
+    "statement": "...queremos comprometernos para erradicar el acoso escolar...tiene que ser una estrategia nacional, en serio, para sacarlo de las aulas y las escuelas."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://youtu.be/f8lCvkYiQLU?t=2868",
+    "date": "6/4/2019",
+    "statement": "...queremos hacer una buena ley de educación...en la que se garantice la libertad de elección de las familias...evaluación pública(...)de profesores y centros...que el castellano sea lengua vehicular en toda España...reforzar la inspección(...)su capacidad sancionadora...apostamos por las materias troncales...apostamos por el bilingüismo [en inglés]...apostamos por la educación en libertad, también la concertada..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Educación",
+    "proposal": "Pacto de Estado por la Educación",
+    "source": "https://youtu.be/f8lCvkYiQLU?t=3164",
+    "date": "6/4/2019",
+    "statement": "...tenemos que prestigiar la profesión docente...un MIR educativo..."
+  },
+  {
     "party": "Partido Popular",
     "candidate": "Pablo Casado",
     "topic": "Educación",

@@ -1,5 +1,41 @@
 [
   {
+    "party": "Vox",
+    "candidate": "Santiago Abascal",
+    "topic": "Sanidad",
+    "proposal": "Salud sexual y reproductiva",
+    "source": "https://www.atresplayer.com/antena3/programas/espejo-publico/abril-2019/08-04-19-santiago-abascal-sobre-el-debate-de-la-eutanasia-no-vamos-a-facilitar-que-un-marido-pueda-matar-a-su-mujer_5cab324f7ed1a874ece5c0e6/",
+    "date": "8/4/2019",
+    "statement": "Nosotros derogaremos la actual ley del aborto. (¿Para volver a la del 85?) Con algunos cambios, nosotros pensamos que ahí había algún coladero de carácter psicológico."
+  },
+  {
+    "party": "Vox",
+    "candidate": "Santiago Abascal",
+    "topic": "Sanidad",
+    "proposal": "Acceso universal a la atención sanitaria",
+    "source": "https://www.youtube.com/watch?v=4umJ9wzi13I",
+    "date": "8/4/2019",
+    "statement": "No se puede lanzar el mensaje al mundo de que el que entra en España puede quedarse en España, recibir sanidad gratuita..."
+  },
+  {
+    "party": "Vox",
+    "candidate": "Santiago Abascal",
+    "topic": "Sanidad",
+    "proposal": "Acceso universal a la atención sanitaria",
+    "source": "https://www.youtube.com/watch?v=4umJ9wzi13I",
+    "date": "8/4/2019",
+    "statement": "No se puede lanzar el mensaje al mundo de que el que entra en España puede quedarse en España, recibir sanidad gratuita..."
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Sanidad",
+    "proposal": "Acceso universal a la atención sanitaria",
+    "source": "https://youtu.be/bNft9R1YBjw?t=3670",
+    "date": "8/4/2019",
+    "statement": "... vamos a garantizar una sanidad a nivel nacional; un sistema de salud nacional ...que tenga una cartera básica de servicios en todas las Comunidades Autónomas, compartida; que tenga una tarjeta sanitaria única, interoperable; y que tenga una central de compras para racionalizar el coste..."
+  },
+  {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Sanidad",

@@ -1,5 +1,41 @@
 [
   {
+    "party": "Unidas Podemos",
+    "candidate": "Pablo Iglesias",
+    "topic": "Calidad democrática",
+    "proposal": "Transparencia y lucha contra la corrupción",
+    "source": "https://www.youtube.com/watch?time_continue=4119&v=3GFlMuBNuPE",
+    "date": "9/4/2019",
+    "statement": "Proponemos crear una unidad de élite, una unidad especial contra la corrupción institucional institucional que no dependa del Ministerio del Interior [...] que dependa de jueces y de fiscales"
+  },
+  {
+    "party": "Partido Popular",
+    "candidate": "Pablo Casado",
+    "topic": "Calidad democrática",
+    "proposal": "Transparencia y lucha contra la corrupción",
+    "source": "https://youtu.be/bNft9R1YBjw?t=3883",
+    "date": "8/4/2019",
+    "statement": "...vamos a reivindicar la reforma de la elección de los vocales del Consejo General del Poder Judicial; queremos volver al espíritu de la Constitución para que los doce vocales de extracción judicial sean directamente elegidos por los jueces y los magistrados."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Calidad democrática",
+    "proposal": "Transparencia y lucha contra la corrupción",
+    "source": "https://youtu.be/_cEOHGRLLf0?t=4434",
+    "date": "6/4/2019",
+    "statement": "...(¿cuáles son los desafíos que tenemos por delante?)...y el tercero la limpieza en el ejercicio de la acción pública, la lucha sin cuartel contra la corrupción..."
+  },
+  {
+    "party": "Partido Socialista",
+    "candidate": "Pedro Sánchez",
+    "topic": "Calidad democrática",
+    "proposal": "Libre expresión de la ciudadanía",
+    "source": "https://youtu.be/F4rxWw7zYkQ?t=6163",
+    "date": "6/4/2019",
+    "statement": "... que por supuesto que vamos a derogar la Ley mordaza..."
+  },
+  {
     "party": "Ciudadanos",
     "candidate": "Albert Rivera",
     "topic": "Calidad democrática",
