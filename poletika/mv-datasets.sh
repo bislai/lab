@@ -23,4 +23,4 @@ for ((i = 0; i < ${#partidosre[@]}; i++)); do
 
 done
 
-mv "$(pwd)"/poletika.json "$github"/poletika.json
+cp "$(pwd)"/poletika.json "$github"/poletika.json

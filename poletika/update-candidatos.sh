@@ -16,7 +16,7 @@ our=$(curl -s 'https://raw.githubusercontent.com/bislai/lab/master/poletika/pole
 your=$(curl -s 'https://data.what-politicians-say.poletika.org/json/' | jq '. | length')
 
 # Nos traemos la fecha para así actualizar el repositorio con la fecha del día de la actualización
-fecha=$(date '+%Y-%m-%d')
+fecha=$(date '+%d-%m-%Y')
 
 
 if [ "$your" -gt "$our" ] ; then
@@ -43,7 +43,8 @@ if [ "$your" -gt "$our" ] ; then
     git add csv &&
     git commit -m "update datasets | date: '$fecha'" &&
     git push origin master &&
-    now || exit
+    now || exit &&
+    t update "🎉 Visualización actualizada('$fecha') con la información de candi-DATOS. #PoletikaVigila ha recogido un total de $your compromisos  https://pqnvl.jorgeatgu.now.sh  (tweet automático)"
 else
     echo "No hay ninguna actualización disponible."
 fi
